@@ -1,0 +1,474 @@
+{
+  "add_plant": {
+    "add_location": "Add Location",
+    "add_location_description": "Add a new location for your plants, like a cozy library corner or a sunny patio.",
+    "description": "Description",
+    "did_you_mean": "Did you mean:",
+    "name": "Name",
+    "next": "Next",
+    "popular_plant_selected": "Popular Plant selected:",
+    "select_a_category": "Select a category",
+    "select_location": "Select Location",
+    "select_your_plant": "Select your plant",
+    "select_your_plant_description": "Keep your plants alive by watering, providing sunlight, and checking for pests.",
+    "selected_plant": "Selected plant:",
+    "type_description_here": "Type description here...",
+    "type_name_here": "Type name here...",
+    "when_did_you_last_water": "When did you last water this plant",
+    "where_is_the_plant_placed": "Where is the plant placed"
+  },
+  "auth": {
+    "choose_password": "Choose your password",
+    "confirm_password": "Confirm your password",
+    "description": "The easiest way to keep your plants happy and healthy.",
+    "dont_have_account": "Don't have an account ",
+    "email_required": "Email is required",
+    "min_6_characters": "Min 6 characters",
+    "or_sign_up_with": "Or Sign up with",
+    "password_min_6": "Password must be at least 6 characters",
+    "password_required": "Password is required",
+    "sign_in": "Sign In",
+    "sign_in_with_facebook": "Sign In with Facebook",
+    "sign_in_with_google": "Sign In with Google",
+    "sign_up": "Sign Up",
+    "your_email": "Your email address"
+  },
+  "care": {
+    "generic": {
+      "toxic": "This plant can be toxic if ingested. Keep it away from children and pets."
+    },
+    "aromatics": {
+      "light": "Prefers plenty of sun.",
+      "maintenance": "Aromatic plants are easy-going and reward you with fragrance and flavor.",
+      "watering": "Keep the soil slightly moist between waterings."
+    },
+    "climate_note_cool_humid": "It's cooler/more humid in your area ({temp}°C, {humidity}% humidity): space out the waterings a bit so it doesn't get waterlogged.",
+    "climate_note_hot_dry": "It's hot/dry in your area ({temp}°C, {humidity}% humidity): water more frequently.",
+    "climate_note_mild": "Mild local climate ({temp}°C, {humidity}% humidity): we kept the standard care.",
+    "flowering": {
+      "light": "Needs plenty of bright light to flower.",
+      "maintenance": "Flowering plants need a little more attention to bloom well — regular watering and good light.",
+      "watering": "Keep the soil lightly moist; don't let it dry out completely."
+    },
+    "foliage": {
+      "light": "Prefers bright, indirect light; tolerates medium light.",
+      "maintenance": "Foliage plants are generally easy-going and forgiving — a great fit for beginners.",
+      "watering": "Water when the top 2–3 cm of soil feel dry."
+    },
+    "herbs": {
+      "light": "Prefers full sun.",
+      "maintenance": "Herbs are easy to grow and do best with regular harvesting.",
+      "watering": "Keep the soil lightly moist; don't let it dry out."
+    },
+    "shrubs": {
+      "light": "Prefers full sun to partial shade.",
+      "maintenance": "Shrubs are hardy once established and need only moderate care.",
+      "watering": "Water when the topsoil dries out."
+    },
+    "succulents_and_cacti": {
+      "light": "Loves direct or very bright light.",
+      "maintenance": "Succulents and cacti thrive on neglect — the most common mistake is overwatering.",
+      "watering": "Water only when the soil is completely dry."
+    },
+    "trees": {
+      "light": "Prefers full sun to partial shade.",
+      "maintenance": "Ornamental trees need periodic watering and space to grow.",
+      "watering": "Water deeply when the topsoil dries out."
+    },
+    "vegetables": {
+      "light": "Needs full sun (6+ hours a day).",
+      "maintenance": "Vegetables need consistent watering and lots of light to produce well.",
+      "watering": "Keep the soil consistently moist."
+    },
+    "watering_time_hot": "Water early in the morning and avoid strong midday sun — in the heat, water evaporates quickly.",
+    "watering_time_normal": "Water in the morning so the plant can make the most of the water during the day."
+  },
+  "category": {
+    "aromatics": {
+      "description": "Plants with pleasant fragrances.",
+      "title": "Aromatics"
+    },
+    "flowering": {
+      "description": "Plants that produce beautiful flowers.",
+      "title": "Flowering"
+    },
+    "foliage": {
+      "description": "Plants with beautiful leaves and foliage.",
+      "title": "Foliage"
+    },
+    "herbs": {
+      "description": "Culinary and medicinal outdoor plants.",
+      "title": "Herbs"
+    },
+    "shrubs": {
+      "description": "Medium-sized woody plants perfect for landscaping.",
+      "title": "Shrubs"
+    },
+    "succulents_and_cacti": {
+      "description": "Drought-resistant plants that store water.",
+      "title": "Succulents and Cacti"
+    },
+    "trees": {
+      "description": "Large outdoor plants that provide shade and structure.",
+      "title": "Trees"
+    },
+    "vegetables": {
+      "description": "Edible plants for your garden.",
+      "title": "Vegetables"
+    }
+  },
+  "common": {
+    "account_error": "Couldn't set up your account. Check your connection and try again.",
+    "add": "Add",
+    "add_place": "Add place",
+    "area": "Area",
+    "cancel": "Cancel",
+    "continue": "Continue",
+    "delete": "Delete",
+    "edit": "Edit",
+    "loading": "Loading",
+    "locked": "Locked",
+    "plant": "Plant",
+    "retry": "Retry",
+    "save": "Save",
+    "select_place": "Select a place",
+    "view_all": "View all"
+  },
+  "diagnosis": {
+    "auto_diagnose": "Auto diagnose",
+    "best_match": "Best match",
+    "care_advice": "Get expert plant care advice to help you keep your plants healthy and happy",
+    "choose_from_gallery": "Choose from gallery",
+    "confidence": "Confidence: {confidence}%",
+    "could_not_identify": "Could not identify the plant. Try another photo.",
+    "done": "Done",
+    "plant_care_team": "Plant Care Team",
+    "take_photo": "Take a photo"
+  },
+  "explorer": {
+    "add_plant": "Add plant",
+    "also_known_as": "Also known as:",
+    "categories": "Categories",
+    "close": "Close",
+    "common_names": "Common names",
+    "description": "Description",
+    "edible_parts": "Edible parts",
+    "error": "Error: {error}",
+    "gift_title": "Give a gift that grows and thrives.",
+    "popular_plants": "Popular Plants",
+    "scientific_name": "Scientific name",
+    "search": "Search",
+    "search_results": "Search Results",
+    "see_more": "See more",
+    "taxonomy": "Taxonomy",
+    "taxonomy_details": "Family: {family}\nGenus: {genus}",
+    "today": "Today"
+  },
+  "family": {
+    "code_copied": "Code copied",
+    "copy": "Copy",
+    "invalid_invite_code": "Invalid or expired invite code.",
+    "invite_code": "Invite code",
+    "invite_code_description": "Share this code with the people who share this place. They can join from \"Join a place with a code\".",
+    "invite_error_owner_only": "Could not create invite. Only the owner can invite.",
+    "invite_member_button": "Invite someone to this place",
+    "join": "Join",
+    "join_title": "Join a place",
+    "join_with_code_button": "Join a place with a code",
+    "joined_success": "You joined the place!",
+    "member_remove_error": "Could not remove member",
+    "member_removed": "Member removed",
+    "my_place": "My Place",
+    "no_members": "No members yet.",
+    "role_member": "member",
+    "unknown_member": "Unknown",
+    "you": "(you)",
+    "rename_place": "Rename place",
+    "rename_place_title": "Place name",
+    "place_name_hint": "e.g. Home, Grandma's garden",
+    "place_renamed": "Place renamed",
+    "place_rename_error": "Could not rename the place",
+    "role_owner": "owner",
+    "role_editor": "editor",
+    "role_viewer": "viewer",
+    "role_caretaker": "caretaker",
+    "invite_caretaker_button": "Invite a caretaker",
+    "caretaker_title": "Invite a caretaker",
+    "caretaker_description": "A caretaker gets temporary access to do only the tasks you choose, during the period you set. After that, access ends automatically.",
+    "caretaker_period": "Access period",
+    "caretaker_select_dates": "Select dates",
+    "caretaker_tasks": "Allowed tasks",
+    "caretaker_generate": "Generate code"
+  },
+  "get_started": {
+    "cta": "Get Started With Planta",
+    "description": "Keep your plants alive by watering, providing sunlight, and checking for pests.",
+    "title": "Keep your plants alive"
+  },
+  "home": {
+    "add_plant": "Add plant",
+    "greeting": "Hi {name}!",
+    "greeting_no_name": "Hi!",
+    "my_plants": "My Plants",
+    "no_plants_added": "No Plants Added",
+    "no_plants_description": "Begin nurturing your home \nby adding a plant today.",
+    "popular_plants": "Popular Plants",
+    "water_in_days": "Water in {days}d",
+    "water_needs": "Needs watering",
+    "water_overdue": "Watering overdue",
+    "water_today": "Water today"
+  },
+  "my_locations": {
+    "title": "My Locations"
+  },
+  "my_place": {
+    "add_plant": "Add plant",
+    "archived_plants": "Archived plants",
+    "area": "Area",
+    "living_room": "Living Room",
+    "living_room_description": "Living room plants enhance beauty, air relaxing ambiance.",
+    "my_areas": "My Areas",
+    "my_plants": "My Plants"
+  },
+  "nav": {
+    "diagnosis": "Diagnosis",
+    "explorer": "Explorer",
+    "home": "Home",
+    "my_place": "My Place",
+    "premium": "Premium"
+  },
+  "notifications": {
+    "watering_body": "Your plant is due for watering today.",
+    "watering_title": "Time to water {plant} 🌱"
+  },
+  "onboarding": {
+    "city": "City",
+    "city_hint": "New York",
+    "country": "Country",
+    "country_hint": "US",
+    "experience_subtitle": "I'm great at plant care advice, water them myself!",
+    "experience_title": "Great at advice, but no hands to water!",
+    "get_started": "Get Started",
+    "name": "Name",
+    "name_hint": "John Doe",
+    "name_required": "Name is required",
+    "next": "Next",
+    "personal_info_subtitle": "Please fill in your personal information",
+    "personal_information": "Personal Information",
+    "pick_multiple_options": "You can pick multiple options",
+    "profession": "Profession",
+    "profession_hint": "Software Engineer",
+    "skip": "Skip",
+    "where_are_your_plants_title": "Where are your plants"
+  },
+  "plant": {
+    "anthurium": {
+      "description": "Tropical plant with striking flowers.",
+      "light": "Anthuriums prefer bright, indirect light and will struggle in direct sun or very low light conditions. A spot near a bright window with filtered light is ideal.",
+      "maintenance": "Anthuriums require moderate care, thriving with consistent moisture and warm, humid environments. They prefer a stable routine and occasional attention to keep their foliage and blooms healthy.",
+      "title": "Anthurium",
+      "toxicity": "Anthuriums are toxic to pets and humans if ingested, causing oral irritation and digestive discomfort.",
+      "watering": "Water the Anthurium when the top 2-3 cm of soil feel dry, keeping the soil slightly moist but never soggy. It typically needs watering every 7 to 10 days depending on the environment."
+    },
+    "boston_fern": {
+      "description": "Classic shade-loving hanging plant.",
+      "light": "Boston Ferns prefer bright, indirect light and can tolerate some shade. Direct sunlight should be avoided to prevent leaf burn.",
+      "maintenance": "Boston Ferns require a bit more attention, thriving in consistently moist soil and high humidity environments. Regular misting and attentive watering help them stay lush and healthy.",
+      "title": "Boston Fern",
+      "toxicity": "Boston Ferns are non-toxic to pets and humans, making them a safe option for households with animals.",
+      "watering": "Keep the soil consistently moist but not soggy. Water the Boston Fern every 3 to 5 days, adjusting based on the humidity and temperature."
+    },
+    "cereus_cactus": {
+      "description": "Sun-loving and very resilient.",
+      "light": "Cereus Cactus loves full sun and should be placed in a bright, sunny spot to grow vigorously and maintain its shape.",
+      "maintenance": "Cereus Cactus is a low-maintenance plant that thrives in dry conditions and requires minimal attention, making it ideal for beginners or busy owners.",
+      "title": "Cereus Cactus",
+      "toxicity": "Cereus Cactus is generally considered non-toxic to pets and humans, although its sharp spines can cause physical injury if touched.",
+      "watering": "Water the Cereus Cactus deeply but infrequently, allowing the soil to dry out completely between waterings. Typically, it needs watering every 21 to 30 days."
+    },
+    "echeveria": {
+      "description": "Perfect for forgetful waterers.",
+      "light": "Echeverias prefer bright, direct sunlight for several hours a day. A sunny windowsill or outdoor spot with strong light is ideal for their growth.",
+      "maintenance": "Echeverias are low-maintenance succulents that thrive with minimal care, requiring only occasional watering and plenty of light to stay healthy and vibrant.",
+      "title": "Echeveria",
+      "toxicity": "Echeverias are non-toxic to pets and humans, making them a safe and attractive choice for indoor spaces.",
+      "watering": "Allow the soil to dry out completely before watering Echeveria thoroughly. Typically, it needs watering every 14 to 21 days depending on the climate and season."
+    },
+    "monstera": {
+      "description": "Exotic and highly decorative foliage.",
+      "light": "Monstera prefers bright, indirect light but can tolerate lower light levels. Direct sunlight should be avoided to prevent leaf scorching.",
+      "maintenance": "Monstera plants are relatively easy to care for but require regular attention to watering and light. They thrive in humid environments with moderate maintenance.",
+      "title": "Monstera",
+      "toxicity": "Monstera plants are toxic to pets and humans if ingested, causing irritation and digestive upset.",
+      "watering": "Water the Monstera when the top 2-5 cm of soil feel dry to the touch. Typically, watering is needed every 7 to 10 days depending on the environment."
+    },
+    "peace_lily": {
+      "description": "Blooms indoors and purifies air.",
+      "light": "Peace Lilies do well in low to medium indirect light and can tolerate lower light environments better than many other houseplants.",
+      "maintenance": "Peace Lilies are fairly easy to care for, requiring consistent moisture and thriving in lower light conditions. They benefit from regular watering and occasional misting to maintain humidity.",
+      "title": "Peace Lily",
+      "toxicity": "Peace Lilies are toxic to pets and humans if ingested, potentially causing oral irritation and digestive upset.",
+      "watering": "Water the Peace Lily when the top of the soil starts to dry out, usually once every 5 to 7 days. Ensure the soil remains slightly moist but not soggy."
+    },
+    "pilea": {
+      "description": "Highly popular in modern décor.",
+      "light": "Pilea prefers bright, indirect light but can tolerate lower light conditions for short periods.",
+      "maintenance": "The Pilea Peperomioides is a low-maintenance plant that thrives with minimal attention, making it perfect for beginners.",
+      "title": "Pilea Peperomioides",
+      "toxicity": "Pilea Peperomioides is non-toxic and safe for pets and humans, making it a great choice for households with animals.",
+      "watering": "Water the Pilea every two weeks or when the top layer of soil feels dry, ensuring the roots do not sit in water."
+    },
+    "pothos": {
+      "description": "Hardy and ideal for indoor spaces.",
+      "light": "Pothos thrive in bright, indirect light but can also tolerate low light. However, they may grow more slowly in low light conditions.",
+      "maintenance": "Pothos are incredibly easy to care for, known for their resilient nature. They thrive in a variety of lighting conditions and only need occasional watering.",
+      "title": "Pothos",
+      "toxicity": "Pothos are toxic to pets and humans if ingested, causing symptoms like vomiting or oral irritation.",
+      "watering": "Water the Pothos when the top 2-3 cm of the soil feel dry to the touch. Typically, they require watering every 7 to 10 days, depending on temperature and humidity."
+    },
+    "snake_plant": {
+      "description": "Air-purifying and low maintenance.",
+      "light": "Snake Plants prefer bright, indirect light but can tolerate low-light and even some direct sunlight, making them highly versatile indoors.",
+      "maintenance": "Snake Plants are incredibly hardy and thrive on minimal care. They are drought-tolerant, adaptable to various lighting conditions, and ideal for busy or beginner plant owners.",
+      "title": "Snake Plant",
+      "toxicity": "Snake Plants are toxic to pets and humans if ingested, potentially causing nausea or gastrointestinal upset.",
+      "watering": "Water the Snake Plant only when the soil is completely dry, typically every 14 to 21 days. Overwatering should be avoided to prevent root rot."
+    },
+    "zz_plant": {
+      "description": "Great for low-light areas.",
+      "light": "ZZ Plants thrive in low to medium indirect light but can also tolerate low-light environments, making them ideal for indoor spaces with limited natural light.",
+      "maintenance": "ZZ Plants are extremely low-maintenance and perfect for beginners. They tolerate neglect, low light, and infrequent watering with ease.",
+      "title": "ZZ Plant",
+      "toxicity": "ZZ Plants are toxic to pets and humans if ingested, causing irritation or stomach discomfort.",
+      "watering": "Allow the soil to dry out completely between waterings. Water approximately every 14 to 21 days, depending on the environment and season."
+    }
+  },
+  "plant_details": {
+    "action_date": "Action Date",
+    "action_type": "Action Type",
+    "activity": "Activity",
+    "action_error": "Couldn't complete the action. Please try again.",
+    "unarchive_plant": "Restore plant",
+    "unarchived_success": "Plant restored.",
+    "remove_plant": "Remove from space",
+    "remove_plant_confirm": "Remove \"{name}\" from the space? The plant leaves your lists and moves to \"Archived plants\", where you can restore it anytime. Its history is kept.",
+    "removed_success": "Plant removed from the space.",
+    "add_event": "Add event",
+    "add_irrigation": "Add Irrigation",
+    "add_plant": "Add Plant",
+    "area": "Area",
+    "care_light": "Light",
+    "care_maintenance": "Maintenance",
+    "care_toxicity": "Toxicity",
+    "care_watering": "Watering",
+    "category": "Category",
+    "climate_care_title_city": "Care adjusted to the climate in {city}",
+    "climate_care_title_local": "Care adjusted to the local climate",
+    "close": "Close",
+    "date_and_time": "Date and time",
+    "fertilizing_off_season": "Off fertilizing season — hold off on fertilizing for now.",
+    "fertilizing_season": "It's fertilizing season — the plant is growing.",
+    "irrigation": "Irrigation",
+    "irrigation_event": "Irrigation event",
+    "last_irrigation": "Last Irrigation: ",
+    "moisture_prefix": "The next watering should occur when the soil moisture reaches ",
+    "moisture_value": "{value}%",
+    "next_irrigation": "Next Irrigation: ",
+    "next_watering": "Next watering: {date}",
+    "no_description": "No description",
+    "plant_care": "Plant Care",
+    "plant_name_fallback": "Plant Name",
+    "popular_plants": "Popular Plants",
+    "recommended_suffix": " (recommended)",
+    "select_date_time": "Select the date and time for the irrigation.",
+    "title": "Title",
+    "water_default_suffix": "  (default: {days} days)",
+    "level_low": "Low",
+    "level_medium": "Medium",
+    "level_high": "High",
+    "difficulty_easy": "Easy",
+    "difficulty_medium": "Moderate",
+    "difficulty_hard": "Hard",
+    "toxic": "Toxic",
+    "non_toxic": "Non-toxic",
+    "water_every_days": "{days} days",
+    "water_every_prefix": "Water every ",
+    "watering_days": "{days} days.",
+    "watering_frequency_label": "Watering Frequency:",
+    "watering_moisture_label": "Watering Moisture Threshold:",
+    "watering_should_prefix": "As a general rule, water about every ",
+    "your_plant": "your plant",
+    "type_watering": "Watering",
+    "type_fertilizing": "Fertilizing",
+    "type_note": "Note",
+    "type_image": "Photo",
+    "performed_by": "by {name}",
+    "someone": "Someone",
+    "add_activity": "Add activity",
+    "activity_notes_hint": "Notes (optional)",
+    "no_activities": "No activities yet."
+  },
+  "popular_plants": {
+    "title": "Popular Plants"
+  },
+  "premium": {
+    "care_schedules_description": "Create a custom care schedule for your plants",
+    "care_schedules_title": "Care schedules",
+    "get_premium": "Get Premium",
+    "plant_identifier_description": "Scan a plant and find out the name and how to care for it",
+    "plant_identifier_title": "Plant identifier",
+    "reminders_description": "Get reminders for watering, fertilizing, and more",
+    "reminders_title": "Reminders",
+    "title": "What is Planta Premium?"
+  },
+  "profile": {
+    "areas": "Areas",
+    "google_account_exists": "That Google account already exists on Niva. Tap again to sign in to it.",
+    "google_banner_subtitle": "Link your account with Google so you don't lose your plants.",
+    "google_banner_title": "Sign in to save your garden",
+    "google_link_error": "Could not sign in with Google. Please try again.",
+    "google_link_success": "Signed in with Google!",
+    "photos": "Photos",
+    "plants": "Plants"
+  },
+  "settings": {
+    "account": "Account",
+    "language": "Language",
+    "language_en": "English",
+    "language_es": "Spanish",
+    "language_pt": "Portuguese",
+    "logout": "Logout",
+    "place": "Place",
+    "theme": "Theme",
+    "theme_dark": "Dark Mode",
+    "theme_light": "Light Mode",
+    "theme_system": "System",
+    "title": "Settings",
+    "manage_place": "Manage place"
+  },
+  "edit_profile": {
+    "title": "Edit profile",
+    "name": "Name",
+    "name_hint": "Your name",
+    "profession": "Profession",
+    "profession_hint": "What you do",
+    "phone": "Phone",
+    "phone_hint": "Phone number",
+    "area_code_hint": "+1",
+    "birth_date": "Birth date",
+    "birth_date_hint": "Select a date",
+    "city": "City",
+    "city_hint": "City",
+    "state": "State",
+    "state_hint": "State",
+    "country": "Country",
+    "country_hint": "Country",
+    "experience_level": "Experience with plants",
+    "experience_hopeless": "Hopeless",
+    "experience_beginner": "Beginner",
+    "experience_experienced": "Experienced",
+    "save": "Save",
+    "saved": "Profile updated",
+    "save_error": "Could not save profile"
+  }
+}

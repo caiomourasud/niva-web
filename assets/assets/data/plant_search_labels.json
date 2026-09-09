@@ -1,0 +1,7701 @@
+{
+  "version": 6,
+  "species": [
+    {
+      "scientific_name": "Monstera deliciosa",
+      "slug": "monstera",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Costela-de-adão",
+          "Monstera",
+          "Banana-abacaxi",
+          "ananas-japonês",
+          "banana-de-macaco",
+          "banana-do-brejo",
+          "banana-do-mato"
+        ],
+        "en": [
+          "Monstera",
+          "Swiss cheese plant",
+          "Ceriman",
+          "Cut-leaf-philodendron",
+          "Delicious Monster",
+          "Fruit salad plant",
+          "Mexican Breadfruit",
+          "Tarovine",
+          "Windowleaf Philodendron",
+          "Locust And Wild Honey"
+        ],
+        "es": [
+          "Costilla de Adán",
+          "Monstera",
+          "Balazo",
+          "Mano de léon",
+          "Piñanona",
+          "Queso suizo",
+          "balazos",
+          "harpón",
+          "piñanona monstera"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 8,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Epipremnum aureum",
+      "slug": "pothos",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Jiboia",
+          "Hera-do-diabo",
+          "jiboia-verde"
+        ],
+        "en": [
+          "Pothos",
+          "Devil's ivy",
+          "Ivy-arum",
+          "Marble Queen",
+          "Silver Vine",
+          "Taro vine",
+          "Tonga Vine",
+          "golden hunter's-robe",
+          "golden pothos",
+          "moneyplant",
+          "Pothos vine",
+          "variegated philodendron"
+        ],
+        "es": [
+          "Pothos",
+          "Potos",
+          "Maiami",
+          "Miami",
+          "Poto asiático",
+          "Teléfono asiático"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 8,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Spathiphyllum wallisii",
+      "slug": "peace-lily",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "Lírio-da-paz"
+        ],
+        "en": [
+          "Peace lily"
+        ],
+        "es": [
+          "Lirio de la paz",
+          "Espatifilo",
+          "Cuna de Moisés",
+          "Cuna sudamericana de Moisés"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "low",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Sansevieria trifasciata",
+      "slug": "snake-plant",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Espada-de-são-jorge",
+          "Língua-de-sogra",
+          "sanseveria"
+        ],
+        "en": [
+          "Snake plant",
+          "Mother-in-law's tongue",
+          "African bowstring-hemp",
+          "Viper's bowstring hemp",
+          "konje-hemp",
+          "snakeplant"
+        ],
+        "es": [
+          "Lengua de suegra",
+          "Espada de San Jorge",
+          "sansevieria"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 16,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "low",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Ficus lyrata",
+      "slug": "fiddle-leaf-fig",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Ficus-lira",
+          "Figueira-lira",
+          "Ficus lira"
+        ],
+        "en": [
+          "Fiddle leaf fig",
+          "Fiddleleaf Fig",
+          "banjo fig",
+          "lyre-leaf figtree",
+          "Fiddle-leaf fig",
+          "Ficus lyrata"
+        ],
+        "es": [
+          "Ficus lira",
+          "Lirata",
+          "Pandurata",
+          "Árbol lira",
+          "Higuera de hoja de violín"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 8,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Philodendron hederaceum",
+      "slug": "heartleaf-philodendron",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Filodendro",
+          "Filodendro-coração",
+          "maria-mole",
+          "Filodendro-brasil",
+          "Filodendro-trepador"
+        ],
+        "en": [
+          "Heartleaf philodendron",
+          "Vilevine",
+          "heart-leaf philodendron",
+          "Philodendron",
+          "Sweetheart plant",
+          "Philodendron Brasil"
+        ],
+        "es": [
+          "Filodendro",
+          "Paisaje",
+          "camote de sargotín",
+          "Filodendro trepador",
+          "Filodendro Brasil"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 8,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Chlorophytum comosum",
+      "slug": "spider-plant",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Clorofito",
+          "Planta-aranha",
+          "gravatinha"
+        ],
+        "en": [
+          "Spider plant",
+          "Bracket plant",
+          "Green Hen And Chickens",
+          "Hen And Chickens",
+          "Hen-and-Chicks",
+          "Ribbon Plant",
+          "Spider Ivy",
+          "Walking Anthericum",
+          "ribbonplant",
+          "spiderplant"
+        ],
+        "es": [
+          "Cinta",
+          "Planta araña",
+          "Mala madre",
+          "lazo de amor"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Aloe vera",
+      "slug": "aloe-vera",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "Babosa",
+          "aloé",
+          "aloé-dos-barbados",
+          "babosa-comum",
+          "babosa-medicinal",
+          "erva-azebra",
+          "erva-babosa"
+        ],
+        "en": [
+          "Aloe",
+          "Barbados Aloe",
+          "Barbados Aloes",
+          "Common Aloes",
+          "Curaçao aloe",
+          "Indian aloe",
+          "Jaffarabad aloe",
+          "Mediterranean aloe",
+          "West Indian aloe",
+          "burn plant",
+          "coastal aloe",
+          "common aloe",
+          "medicinal aloe",
+          "star cactus"
+        ],
+        "es": [
+          "Sábila",
+          "acibar",
+          "aloe",
+          "aloja",
+          "atzavara",
+          "flor de deserto",
+          "lináloe",
+          "loto de deserto",
+          "maguey morado",
+          "penca sábila",
+          "pita zabila",
+          "pitera amarelo",
+          "sábila do penca",
+          "sávila"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 18,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Zamioculcas zamiifolia",
+      "slug": "zz-plant",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Zamioculca",
+          "brilhante",
+          "zamioculcas"
+        ],
+        "en": [
+          "ZZ plant",
+          "Zanzibar gem",
+          "zeezee plant"
+        ],
+        "es": [
+          "Zamioculca"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 16,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "low",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Dracaena marginata",
+      "slug": "dragon-tree",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Dracena",
+          "Árvore-dragão",
+          "dracena-arco-íris",
+          "dracena-de-madagascar",
+          "dracena-tricolor",
+          "Dracena-marginata"
+        ],
+        "en": [
+          "Dragon tree",
+          "Madagascar dragon tree",
+          "Dracaena"
+        ],
+        "es": [
+          "Drácena",
+          "Árbol dragón",
+          "Dracena marginata"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 10,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Bougainvillea glabra",
+      "slug": "bougainvillea",
+      "category": "shrubs",
+      "common_names": {
+        "pt": [
+          "Primavera",
+          "Bougainville",
+          "Bougainvílea",
+          "Bougaiville",
+          "Buganvilha",
+          "Buganvília-do-Brasil",
+          "Bugãvilha",
+          "Cansarina",
+          "Ceboleiro-da-mata",
+          "Lustrosa",
+          "Primavera-arbórea",
+          "Riso-do-prado",
+          "buganvilia",
+          "juvú"
+        ],
+        "en": [
+          "Bougainvillea",
+          "Paper Flower",
+          "Paperflower",
+          "lesser bougainvillea",
+          "red bougainvillea"
+        ],
+        "es": [
+          "Bugambilia",
+          "Bougainvillea",
+          "Bugambilia mamey",
+          "Curazao",
+          "Santa Rita",
+          "Trinitariariocha",
+          "Veranera"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Jasminum polyanthum",
+      "slug": "jasmine",
+      "category": "shrubs",
+      "common_names": {
+        "pt": [
+          "Jasmim-dos-poetas"
+        ],
+        "en": [
+          "Pink jasmine",
+          "Jasmine"
+        ],
+        "es": [
+          "Jazmín chino",
+          "Jazmín rosa asiático"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Plumbago auriculata",
+      "slug": "plumbago",
+      "category": "shrubs",
+      "common_names": {
+        "pt": [
+          "Plumbago",
+          "Jasmim-azul",
+          "bela-emília",
+          "dentelária-do-cabo",
+          "jasmim-do-cabo",
+          "jasmineiro-azul",
+          "plumbago-azul"
+        ],
+        "en": [
+          "Cape leadwort",
+          "Quaker",
+          "Quaker Blossom",
+          "plumbago",
+          "blue plumbago"
+        ],
+        "es": [
+          "Celestina",
+          "azulina",
+          "jasmín azul",
+          "malacara"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Mandevilla sanderi",
+      "slug": "dipladenia",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "Dipladênia",
+          "Mandevila"
+        ],
+        "en": [
+          "Rocktrumpet",
+          "Mandevilla",
+          "Brazilian jasmine",
+          "Mexican love vine"
+        ],
+        "es": [
+          "Dipladenia",
+          "Jazmín sudamericano"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Pelargonium hortorum",
+      "slug": "geranium",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "Gerânio"
+        ],
+        "en": [
+          "Geranium",
+          "Zonal geranium",
+          "bedding geranium",
+          "fish geranium",
+          "horseshoe geranium",
+          "house geranium",
+          "zonal pelargonium"
+        ],
+        "es": [
+          "Geranio"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Petunia hybrida",
+      "slug": "petunia",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "Petúnia",
+          "petúnia-vulgar"
+        ],
+        "en": [
+          "Petunia",
+          "Common garden petunia"
+        ],
+        "es": [
+          "Petunia"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 4,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Impatiens walleriana",
+      "slug": "impatiens",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "Beijinho",
+          "Maria-sem-vergonha",
+          "Beijo-turco"
+        ],
+        "en": [
+          "Busy Lizzie",
+          "Impatiens",
+          "Buzzy lizzy",
+          "balsam",
+          "busy-Lizzy",
+          "patienceplant",
+          "patient-Lucy",
+          "sultana",
+          "zanzibar balsam"
+        ],
+        "es": [
+          "Alegría del hogar",
+          "Bejuco amateco africano",
+          "Belén africana",
+          "Besitos",
+          "Beso",
+          "China común",
+          "balsamina",
+          "chino",
+          "quince años"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 3,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Coleus scutellarioides",
+      "slug": "coleus",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Coleus",
+          "coração-magoado"
+        ],
+        "en": [
+          "Coleus",
+          "Painted nettle",
+          "common coleus"
+        ],
+        "es": [
+          "Cóleo",
+          "Chirrite",
+          "Coleos",
+          "Cretona",
+          "Manto asiático",
+          "Payasito",
+          "ahijado",
+          "macho",
+          "manto",
+          "nene"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 4,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Kalanchoe daigremontiana",
+      "slug": "kalanchoe-mother",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "Mãe-de-milhares",
+          "Aranto-manchado",
+          "Calanchoê-manchada",
+          "Espinha-do-diabo",
+          "Mãe-de-milhares-manchada",
+          "Mãe-de-milhares-rajada",
+          "Planta-chapéu-mexicano",
+          "Planta-jacaré",
+          "Planta-maternidade",
+          "Planta-panda"
+        ],
+        "en": [
+          "Mother of thousands",
+          "Alligator Plant",
+          "Devil's Backbone",
+          "Mother-of-Millions"
+        ],
+        "es": [
+          "Madre de miles",
+          "Aranto",
+          "Curalotodo",
+          "Espinazo del diablo",
+          "Espinazo del diablo de Madagascar",
+          "Planta lagarto de Madagascar"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 16,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Kalanchoe blossfeldiana",
+      "slug": "kalanchoe",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "Kalanchoe",
+          "Flor-da-fortuna",
+          "calanchoê",
+          "calancoê",
+          "colher-de-prata"
+        ],
+        "en": [
+          "Kalanchoe",
+          "Flaming Katy",
+          "Christmas kalanchoe",
+          "Florist Kalanchoe",
+          "Madagascar widow's thrill"
+        ],
+        "es": [
+          "Kalanchoe",
+          "Kalanchoe de Madagascar",
+          "oreja de ratón"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 14,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Tradescantia pallida",
+      "slug": "tradescantia-pallida",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Trapoeraba-roxa",
+          "coração-roxo",
+          "viuvinha"
+        ],
+        "en": [
+          "Purple heart",
+          "\"Wandering Jew\"",
+          "Purple Queen",
+          "purpleheart",
+          "wandering Jew"
+        ],
+        "es": [
+          "Amor morado",
+          "Cohitre morado",
+          "Reina Púrpura",
+          "Suelda con suelda",
+          "Tradescantia púrpura",
+          "hierba del pollo",
+          "niña en barco"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Asparagus densiflorus",
+      "slug": "asparagus-fern",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Aspargo-ornamental",
+          "Aspargo-Pluma",
+          "aspargo",
+          "aspargo-pendente",
+          "aspargo-rabo-de-gato",
+          "aspargo-zigue-zague"
+        ],
+        "en": [
+          "Asparagus fern",
+          "Foxtail Asparagus",
+          "Sprenger's Asparagus",
+          "Sprenger's asparagus fern",
+          "foxtail asparagus-fern",
+          "foxtail fern",
+          "plume asparagus-fern"
+        ],
+        "es": [
+          "Esparraguera ornamental",
+          "Esparrago helecho",
+          "espárrago pluma"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Echeveria elegans",
+      "slug": "echeveria",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "Echeveria",
+          "Rosa-de-pedra",
+          "echevéria-dona-mery",
+          "echevéria-orvalho"
+        ],
+        "en": [
+          "Mexican snowball",
+          "Echeveria",
+          "Mexican-gem",
+          "pearl echeveria",
+          "white Mexican-rose"
+        ],
+        "es": [
+          "Echeveria"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 18,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Crassula ovata",
+      "slug": "jade-plant",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "Planta-jade",
+          "Árvore-da-amizade",
+          "bálsamo",
+          "crássula",
+          "planta-de-jade",
+          "planta-do-dinheiro"
+        ],
+        "en": [
+          "Jade plant",
+          "Money tree",
+          "Japanese rubberplant",
+          "Japanese-laurel",
+          "baby jade",
+          "cauliflower-ears",
+          "dollarplant",
+          "jadeplant",
+          "jadetree"
+        ],
+        "es": [
+          "Planta de jade",
+          "Árbol de la amistad"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 16,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Haworthia fasciata",
+      "slug": "zebra-plant",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "Planta-zebra",
+          "Haworthia",
+          "rabo-de-lagartixa",
+          "rauórtia",
+          "Haworthia-zebra"
+        ],
+        "en": [
+          "Zebra plant",
+          "Haworthia",
+          "zebra haworthia"
+        ],
+        "es": [
+          "Planta cebra",
+          "Haworthia cebra"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 18,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Juniperus procumbens",
+      "slug": "juniper-bonsai",
+      "category": "trees",
+      "common_names": {
+        "pt": [
+          "Junípero"
+        ],
+        "en": [
+          "Japanese garden juniper",
+          "Creeping Juniper"
+        ],
+        "es": [
+          "Enebro"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Ficus retusa",
+      "slug": "ficus-retusa",
+      "category": "trees",
+      "common_names": {
+        "pt": [
+          "Ficus-bonsai"
+        ],
+        "en": [
+          "Ficus bonsai",
+          "Indian laurel"
+        ],
+        "es": [
+          "Ficus bonsái"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Carmona microphylla",
+      "slug": "carmona",
+      "category": "trees",
+      "common_names": {
+        "pt": [
+          "Carmona",
+          "Chá-de-fukien"
+        ],
+        "en": [
+          "Fukien tea tree"
+        ],
+        "es": [
+          "Té de Fukien"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "hard",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Ligustrum sinense",
+      "slug": "ligustrum",
+      "category": "shrubs",
+      "common_names": {
+        "pt": [
+          "Ligustro",
+          "alfeneirinho",
+          "alfeneiro",
+          "alfeneiro-da-china",
+          "cerca-viva",
+          "ligustrinho",
+          "ligustrio",
+          "ligustro-arbustivo",
+          "ligustro-chinês",
+          "ligustro-da-china"
+        ],
+        "en": [
+          "Chinese privet",
+          "Common Chinese Privet",
+          "Narrow-leaf privet",
+          "small-leaf privet"
+        ],
+        "es": [
+          "Aligustre chino",
+          "Ligustrina",
+          "Trueno chino"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 8,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Monstera adansonii",
+      "slug": "monstera-adansonii",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Imbé-furado",
+          "costela-de-adão",
+          "costera-de-adão"
+        ],
+        "en": [
+          "Adanson's Monstera",
+          "Monkey-Mask",
+          "Mountain Ears",
+          "Swiss cheese-plant",
+          "five holes plant",
+          "tarovine"
+        ],
+        "es": [
+          "Chupu khaki",
+          "Na mira",
+          "Piña anona",
+          "Raya panka",
+          "Soso ico"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Thaumatophyllum bipinnatifidum",
+      "slug": "thaumatophyllum-bipinnatifidum",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "banana-de-imbé",
+          "banana-de-macaco",
+          "banana-de-morcego",
+          "banana-do-brejo",
+          "banana-timbó",
+          "membe"
+        ],
+        "en": [
+          "Tree philodendron",
+          "Split-leaf philodendron",
+          "Lacy tree philodendron"
+        ],
+        "es": [
+          "guembe"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 9,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Philodendron erubescens",
+      "slug": "philodendron-erubescens",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Filodendro",
+          "Filodendro Sanguíneo",
+          "Filodendro-roxo"
+        ],
+        "en": [
+          "Blushing Philodendron",
+          "Philodendron",
+          "red-leaf philodendron"
+        ],
+        "es": [
+          "Filodendro rojo",
+          "Filodendro trepador",
+          "Filodendro"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 8,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Epipremnum pinnatum",
+      "slug": "epipremnum-pinnatum",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Jiboia",
+          "Jibóia sulcada",
+          "era-do-diabo",
+          "hera-do-diabo",
+          "jibóia-verde"
+        ],
+        "en": [
+          "Centipede tongavine",
+          "Dragon-tail",
+          "Native Monstera",
+          "Tongavine",
+          "golden pothos",
+          "pothos",
+          "taro vine",
+          "variegated-philodendron"
+        ],
+        "es": [
+          "Teléfono"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 8,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Scindapsus pictus",
+      "slug": "scindapsus-pictus",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Jibóia Prateada",
+          "jibóia",
+          "potos-acetinado",
+          "potos-cetim",
+          "Jiboia-prateada"
+        ],
+        "en": [
+          "satin pothos",
+          "silver pothos"
+        ],
+        "es": [
+          "Potos plateado",
+          "Escíndapso",
+          "Potos satinado",
+          "Poto plateado"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 8,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Syngonium podophyllum",
+      "slug": "syngonium-podophyllum",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Singônio",
+          "aninga-de-cinco-dedos",
+          "Planta-flecha"
+        ],
+        "en": [
+          "African evergreen",
+          "American Evergreen",
+          "Arrow-Head Vine",
+          "Arrowhead Plant",
+          "Arrowhead Vine",
+          "Goose Foot",
+          "Goosefoot-plant",
+          "nephthytis",
+          "Syngonium"
+        ],
+        "es": [
+          "Chapiso",
+          "Guaral",
+          "Kaweinka",
+          "Kowen tobe",
+          "Kowen tobemo",
+          "Malanga trepadora",
+          "Mano poderosa",
+          "Oka towemo",
+          "Sacha cebolla",
+          "Sunkinia",
+          "Sunkíp",
+          "Taka shipu",
+          "Tsanda cu’su",
+          "Uchik sunkip",
+          "Singonio",
+          "Planta flecha"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Dieffenbachia seguine",
+      "slug": "dieffenbachia-seguine",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Comigo-ninguém-pode",
+          "cana-de-Imbe",
+          "difembáquia",
+          "Dieffenbachia"
+        ],
+        "en": [
+          "dumb cane",
+          "Dumbcane",
+          "dumbplant",
+          "mother-in-law-plant",
+          "seguin tuftroot",
+          "tuftroot",
+          "Dieffenbachia"
+        ],
+        "es": [
+          "Chucha",
+          "Hoja de coche",
+          "Hoja elegante blanca",
+          "Hoja pinta",
+          "Kuchi manti",
+          "Mandí del cerdo",
+          "Mata puercos",
+          "Millonaria",
+          "Rábano cimarrón",
+          "Rábano ornamental",
+          "Tomira",
+          "Tsanbu tape",
+          "aro seguino",
+          "caña muda",
+          "Diefembaquia"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Aglaonema commutatum",
+      "slug": "aglaonema-commutatum",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Café-de-salão",
+          "Folhagem-frutífera",
+          "aglaonema"
+        ],
+        "en": [
+          "Chinese evergreen",
+          "Philippine Evergreen",
+          "silver queen aglaonema",
+          "Aglaonema"
+        ],
+        "es": [
+          "Siempreverde china",
+          "Aglaonema",
+          "Siempreverde chino"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 8,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "low",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Anthurium andraeanum",
+      "slug": "anthurium-andraeanum",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "Antúrio",
+          "Flor-de-Jorge-Tadeu",
+          "Flor-de-flamingo"
+        ],
+        "en": [
+          "Flamingo-Lily",
+          "anthurium",
+          "flamingo-flower",
+          "oilcloth-flower",
+          "painter's-palette",
+          "Flamingo flower",
+          "Laceleaf"
+        ],
+        "es": [
+          "Anturio",
+          "Flor de flamenco",
+          "Cala roja"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Alocasia macrorrhizos",
+      "slug": "alocasia-macrorrhizos",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "alocásia-orelha-de-elefante",
+          "inhame-açú",
+          "orelha-de-elefante",
+          "orelha-de-elefante-gigante",
+          "taioba",
+          "taiá-Rio-Branco"
+        ],
+        "en": [
+          "Giant taro",
+          "ape",
+          "cunjevoi",
+          "elephant's-ear plant",
+          "giant alocasia",
+          "pai"
+        ],
+        "es": [
+          "malanga"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Colocasia esculenta",
+      "slug": "colocasia-esculenta",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Inhame",
+          "Inhame-Roxo",
+          "inhame-branco",
+          "inhame-da-costa",
+          "inhame-da-África",
+          "inhame-da-índia",
+          "inhame-imperial",
+          "inhame-preto",
+          "taioba",
+          "taioba-de-São-Tomé",
+          "tinhorão-preto",
+          "Inhame-ornamental"
+        ],
+        "en": [
+          "Arum-Lily Potatoes",
+          "Coco yam",
+          "Cocoyam",
+          "Donkey's Ear",
+          "Katchu",
+          "Native Cabbage",
+          "Taro",
+          "Wild Taro",
+          "dasheen",
+          "eddo",
+          "elephant's-ear",
+          "elephant-ear",
+          "Taro plant",
+          "Elephant ear"
+        ],
+        "es": [
+          "Mafafa",
+          "Mafafa morada",
+          "Malanga",
+          "Yautía coco",
+          "alcocaz",
+          "colocasia",
+          "pituca",
+          "tayoba",
+          "Oreja de elefante"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 4,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Caladium bicolor",
+      "slug": "caladium-bicolor",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Tinhorão"
+        ],
+        "en": [
+          "Angel Wings",
+          "Artist's pallet",
+          "Heart of Jesus",
+          "caladium",
+          "elephant's-ear",
+          "fancy-leaf caladium"
+        ],
+        "es": [
+          "Banderilla sudamericana",
+          "Ccovitsosina’cho",
+          "Chanangetsosinacho",
+          "Corazón de Jesús",
+          "Machakuy manti",
+          "Maru papachini",
+          "Oreja de elefante",
+          "Papa china",
+          "Papa jíbara",
+          "Sacha sankillu",
+          "Saquira atta",
+          "Shikshi manti",
+          "Ttovo",
+          "Tuka"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Calathea orbifolia",
+      "slug": "calathea-orbifolia",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Calateia",
+          "Calateia-orbifolia",
+          "Maranta",
+          "Calathea",
+          "Maranta-orbifolia"
+        ],
+        "en": [
+          "Calathea orbifolia",
+          "Round-leaf calathea",
+          "Prayer plant",
+          "Calathea",
+          "Orbifolia"
+        ],
+        "es": [
+          "Calatea",
+          "Calathea orbifolia",
+          "Planta de la oración",
+          "Planta de oración"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "hard",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Goeppertia lancifolia",
+      "slug": "goeppertia-lancifolia",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Calateia-cascavel",
+          "Maranta-cascavel",
+          "Calateia"
+        ],
+        "en": [
+          "Rattlesnake plant",
+          "Rattlesnake calathea"
+        ],
+        "es": [
+          "Calatea cascabel",
+          "Planta serpiente de cascabel"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "hard",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Maranta leuconeura",
+      "slug": "maranta-leuconeura",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Baratinha",
+          "Maranta-barriga-de-sapo",
+          "Maranta-bigode-de-gato",
+          "Maranta-tartaruga",
+          "Tartaruguinha",
+          "Maranta",
+          "Planta-oração"
+        ],
+        "en": [
+          "prayerplant",
+          "ten-commandments",
+          "Prayer plant",
+          "Maranta"
+        ],
+        "es": [
+          "Sapito",
+          "Maranta",
+          "Planta de oración"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Ctenanthe oppenheimiana",
+      "slug": "ctenanthe-oppenheimiana",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Ctenante",
+          "Maranta-nunca-nunca",
+          "Maranta",
+          "Ctenanthe"
+        ],
+        "en": [
+          "Never-never-plant",
+          "Never never plant"
+        ],
+        "es": [
+          "Pluma de indio",
+          "Ctenanthe"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Ficus elastica",
+      "slug": "ficus-elastica",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Borracheira",
+          "Figueira-da-borracha",
+          "Figueira-do-caucho",
+          "Figueira-italiana",
+          "Árvore-da-borracha",
+          "Seringueira",
+          "Ficus-borracha"
+        ],
+        "en": [
+          "India Rubber Tree",
+          "Indian Rubber Tree",
+          "Rubber Fig",
+          "rubber plant",
+          "Rubber tree"
+        ],
+        "es": [
+          "Caucho",
+          "Gomero",
+          "Gomero/Árbol del caucho",
+          "Hule asiático",
+          "Ficus elástica",
+          "Árbol del caucho",
+          "Planta de caucho"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 8,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Ficus benjamina",
+      "slug": "ficus-benjamina",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "beringan",
+          "ficus-benjamim",
+          "figueira-benjamim",
+          "figueira-benjamina"
+        ],
+        "en": [
+          "Ficus",
+          "Java fig",
+          "Javatree",
+          "Malayan banyan",
+          "Weeping Fig",
+          "benjamin fig",
+          "benjamin-tree",
+          "oval-leaf figtree",
+          "tropic-laurel",
+          "weeping-laurel"
+        ],
+        "es": [
+          "Pivijai"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 8,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Ficus pumila",
+      "slug": "ficus-pumila",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "falsa-hera",
+          "herinha",
+          "unha-de-gato"
+        ],
+        "en": [
+          "Climbing fig",
+          "Climbingfig",
+          "Creeping Fig",
+          "creeping rubberplant",
+          "figvine"
+        ],
+        "es": [
+          "higuera trepadora"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Heptapleurum arboricola",
+      "slug": "heptapleurum-arboricola",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Cheflera pequena",
+          "cheflera"
+        ],
+        "en": [
+          "Hawaiian-elf",
+          "Miniature umbrella tree",
+          "dwarf umbrella tree",
+          "miniature schefflera",
+          "parasol-plant"
+        ],
+        "es": [
+          "Aralia"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 8,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Dracaena fragrans",
+      "slug": "dracaena-fragrans",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Tronco-do-brasil",
+          "coqueiro-de-vênus",
+          "dracena",
+          "pau-d'água"
+        ],
+        "en": [
+          "Dracaena 'Janet Craig Compact'",
+          "Fragrant Dracaena",
+          "Happy plant",
+          "corn plant",
+          "cornstalk dracaena"
+        ],
+        "es": [
+          "Caña india",
+          "Tronco de Brasil",
+          "palmillo"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 10,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Cordyline fruticosa",
+      "slug": "cordyline-fruticosa",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Dracena vermelha",
+          "coqueirinho-de-vênus",
+          "coqueiro-de-vênus",
+          "cordiline",
+          "papagaio",
+          "raiz-de-chá"
+        ],
+        "en": [
+          "Broad-leaved Palm Lily",
+          "Good Luck Plant",
+          "Pacific Island Cabbage Tree",
+          "Palm Lily",
+          "Ti Leaf",
+          "Ti Plant",
+          "Tiplant",
+          "broadleaf palm-lily",
+          "ti",
+          "tree-of-kings"
+        ],
+        "es": [
+          "Banderilla asiática",
+          "caña de indio",
+          "croto",
+          "Cordiline"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Beaucarnea recurvata",
+      "slug": "beaucarnea-recurvata",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Pata-de-efefante",
+          "beaucarnea",
+          "biucarnea",
+          "nolina",
+          "pata-de-elefante",
+          "pé-de-elefante"
+        ],
+        "en": [
+          "Elephant's-foot",
+          "Ponytail Palm",
+          "Stripy Ponytail",
+          "bottle-palm",
+          "elephant-foot-tree",
+          "ponytail"
+        ],
+        "es": [
+          "Apachite",
+          "Boca de Cántaro",
+          "Palma Moja",
+          "Palma barrigona",
+          "Pata de Elefante"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 14,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Chamaedorea elegans",
+      "slug": "chamaedorea-elegans",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Camedórea-elegante",
+          "areca-elegante",
+          "palmeira-bambu",
+          "Palmeira-chamaedórea",
+          "Palmeira-de-sala"
+        ],
+        "en": [
+          "Neanthe bella palm",
+          "Parlor Palm",
+          "Parlour Palm",
+          "good-luck palm"
+        ],
+        "es": [
+          "Camedor de cambray",
+          "Pacaya",
+          "Palmera de salón",
+          "Tepejilote cambray",
+          "Palma de salón"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 8,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Howea forsteriana",
+      "slug": "howea-forsteriana",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Palmeira-de-kentia",
+          "palmeira-quência",
+          "palmeira-quênia",
+          "Palmeira-kentia"
+        ],
+        "en": [
+          "Forster sentry palm",
+          "Kentia Palm",
+          "Sentrypalm",
+          "Thatch Palm",
+          "paradise palm",
+          "sentry palm",
+          "thatch-leaf palm"
+        ],
+        "es": [
+          "Palma Kentia",
+          "Palmera kentia"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 9,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Dypsis lutescens",
+      "slug": "dypsis-lutescens",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "areca-bambu",
+          "palmeira-areca",
+          "Areca"
+        ],
+        "en": [
+          "Areca palm",
+          "Yellow Butterfly Palm",
+          "butterfly palm",
+          "cane palm",
+          "golden-yellow palm",
+          "yellow palm"
+        ],
+        "es": [
+          "Palma areca",
+          "Palmera bambú",
+          "Palma amarilla",
+          "Palmera areca",
+          "Palma bambú"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Rhapis excelsa",
+      "slug": "rhapis-excelsa",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Ráfia",
+          "palmeira-ráfia",
+          "palmeira-rápis"
+        ],
+        "en": [
+          "Broadleaf Lady Palm",
+          "Lady Palm",
+          "Little Lady Palm",
+          "bamboo palm",
+          "fern rhapis",
+          "ground rattan",
+          "miniature fan palm",
+          "slender lady palm"
+        ],
+        "es": [
+          "palmera bambú"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 8,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Nephrolepis exaltata",
+      "slug": "nephrolepis-exaltata",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Samambaia-Americana",
+          "Samambaia-Espada",
+          "feto-espada",
+          "Samambaia-de-boston",
+          "Samambaia americana",
+          "Samambaia"
+        ],
+        "en": [
+          "Boston Swordfern",
+          "Boston fern",
+          "Boston sword fern",
+          "Sword Fern",
+          "fishbone fern",
+          "niʻaniʻau",
+          "southern sword fern"
+        ],
+        "es": [
+          "helecho Boston",
+          "Helecho de Boston",
+          "Helecho espada"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 4,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Adiantum raddianum",
+      "slug": "adiantum-raddianum",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Avenca",
+          "avenca-de-folha-miúda"
+        ],
+        "en": [
+          "Delta Maidenhair",
+          "Delta Maidenhair Fern",
+          "Fine Maidenhair Fern"
+        ],
+        "es": [
+          "Culandrillo",
+          "Helecho culantrillo",
+          "avenca-de-folha-miúda"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "hard",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 3,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Asplenium nidus",
+      "slug": "asplenium-nidus",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Ninho-de-passarinho",
+          "Samambaia-ninho",
+          "Avenca-do-mato"
+        ],
+        "en": [
+          "Hawai'I Birdnest Fern",
+          "bird's-nest fern",
+          "nest fern"
+        ],
+        "es": [
+          "Nido de ave",
+          "Helecho nido",
+          "Asplenio"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Platycerium bifurcatum",
+      "slug": "platycerium-bifurcatum",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Samambaia-Chifre-de-Veado",
+          "chifre-de-veado"
+        ],
+        "en": [
+          "Elkhorn Fern",
+          "Staghorn fern",
+          "common staghorn fern"
+        ],
+        "es": [
+          "Cuerno",
+          "Cuerno de alce",
+          "Helecho Cuerno de Alce",
+          "Helecho asta de ciervo"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Aspidistra elatior",
+      "slug": "aspidistra-elatior",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "aspidistra",
+          "Planta-de-ferro"
+        ],
+        "en": [
+          "Cast iron plant",
+          "barroomplant"
+        ],
+        "es": [
+          "Hojas de salón",
+          "Pilistra",
+          "Aspidistra"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 12,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "low",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Peperomia obtusifolia",
+      "slug": "peperomia-obtusifolia",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Peperômia",
+          "Peperômia-verde"
+        ],
+        "en": [
+          "American rubberplant",
+          "Baby Rubberplant",
+          "oval-leaf peperomia",
+          "pepper-face",
+          "Peperomia",
+          "Baby rubber plant",
+          "Pepper face"
+        ],
+        "es": [
+          "Peperomia",
+          "Peperomia obtusa",
+          "Planta de pimienta"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 10,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Peperomia caperata",
+      "slug": "peperomia-caperata",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Peperômia-enrugada",
+          "Peperômia"
+        ],
+        "en": [
+          "Emerald-Ripple Peperomia",
+          "emerald-ripple pepper",
+          "green-ripple pepper",
+          "little fantasy pepper"
+        ],
+        "es": [
+          "Peperomia rugosa",
+          "Peperomia arrugada"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 10,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Pilea peperomioides",
+      "slug": "pilea-peperomioides",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "piléia",
+          "Pilea",
+          "Planta-chinesa-do-dinheiro",
+          "Planta do dinheiro"
+        ],
+        "en": [
+          "Chinese money plant",
+          "Pilea",
+          "Pancake plant",
+          "UFO plant"
+        ],
+        "es": [
+          "Planta china del dinero",
+          "Pilea",
+          "Planta misionera",
+          "Planta del dinero china",
+          "Planta moneda"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 8,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Fittonia albivenis",
+      "slug": "fittonia-albivenis",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Fitônia",
+          "Planta-mosaico",
+          "Planta-nervo"
+        ],
+        "en": [
+          "mosaic-plant",
+          "nerveplant",
+          "silver fittonia",
+          "silver netleaf",
+          "silver netplant",
+          "silver-nerve",
+          "silver-threads",
+          "snakeskinplant",
+          "Nerve plant",
+          "Fittonia"
+        ],
+        "es": [
+          "Allpa kuru pahu panka",
+          "Allpa kuru panka",
+          "Cucarachita",
+          "Cu’a minaccoro",
+          "Cu’ji ëco",
+          "Hoja de kuika",
+          "Jintiim",
+          "Kuchi pahu",
+          "Kuika panka",
+          "Minaccoro",
+          "Minaccoro seje’pa",
+          "Misapu panka",
+          "Puka kuika pahu panka",
+          "Shinshik panka",
+          "Fitonia",
+          "Planta nerviosa"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 4,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Hypoestes phyllostachya",
+      "slug": "hypoestes-phyllostachya",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "confete",
+          "face-sardenta",
+          "hypoestes"
+        ],
+        "en": [
+          "Baby's Tears",
+          "Flamingo Plant",
+          "Polkadot-Plant",
+          "freckle-face",
+          "measlesplant",
+          "pink-dot",
+          "polka-dot-plant"
+        ],
+        "es": [
+          "Hoja de sangre"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 4,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Tradescantia zebrina",
+      "slug": "tradescantia-zebrina",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "erva-de-santa-luzia",
+          "judeu-errante",
+          "lambari",
+          "lambari-roxo",
+          "onda-do-mar",
+          "trapoeraba-zebra",
+          "Trapoeraba-roxa"
+        ],
+        "en": [
+          "Inch-plant",
+          "Inchplant",
+          "wandering-Jew",
+          "Wandering dude",
+          "Inch plant"
+        ],
+        "es": [
+          "Cucaracha",
+          "Judío errante",
+          "Amor de hombre",
+          "Zebrina",
+          "Tradescantia"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Tradescantia fluminensis",
+      "slug": "tradescantia-fluminensis",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "erva-da-fortuna",
+          "erva-das-galinhas",
+          "judeu-errante",
+          "tradescância",
+          "trapoeraba"
+        ],
+        "en": [
+          "Small-leaf spiderwort",
+          "Wandering Jew",
+          "small-leaved spiderwort",
+          "smallleaf spiderwort",
+          "spiderwort",
+          "wandering-sailor"
+        ],
+        "es": [
+          "amor de hombre",
+          "erva-da-fortuna",
+          "maguey",
+          "oreja de gato"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Hedera helix",
+      "slug": "hedera-helix",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "hedera-variegata",
+          "hera",
+          "hera-inglesa"
+        ],
+        "en": [
+          "English Ivy",
+          "Ivy",
+          "Common Ivy",
+          "European Ivy"
+        ],
+        "es": [
+          "Hiedra",
+          "Hiedra común",
+          "Yedra"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Codiaeum variegatum",
+      "slug": "codiaeum-variegatum",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "cróton",
+          "folha-imperial",
+          "louro-variegado"
+        ],
+        "en": [
+          "Garden Croton"
+        ],
+        "es": [
+          "Crotón",
+          "Croto",
+          "Crotón de jardín"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Phalaenopsis amabilis",
+      "slug": "phalaenopsis-amabilis",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "falenópsis",
+          "orquídea",
+          "orquídea-borboleta",
+          "phalenopsis",
+          "Orquídea-phalaenopsis"
+        ],
+        "en": [
+          "Moth orchid",
+          "Moon orchid",
+          "Phalaenopsis orchid"
+        ],
+        "es": [
+          "Orquídea mariposa",
+          "Orquídea alevilla",
+          "Falenopsis",
+          "Orquídea phalaenopsis"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Dendrobium nobile",
+      "slug": "dendrobium-nobile",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "Olho-de-boneca",
+          "Orquídea-dendrobium"
+        ],
+        "en": [
+          "Noble Dendrobium",
+          "Dendrobium orchid"
+        ],
+        "es": [
+          "Orquídea ojo de muñeca",
+          "Orquídea dendrobium"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Saintpaulia ionantha",
+      "slug": "saintpaulia-ionantha",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "violeta",
+          "violeta-africana"
+        ],
+        "en": [
+          "African-violet",
+          "Usambara-violet",
+          "African violet"
+        ],
+        "es": [
+          "violeta africana"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Begonia maculata",
+      "slug": "begonia-maculata",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "Begônia-maculata",
+          "Begônia-asa-de-anjo",
+          "Begônia-pontinho"
+        ],
+        "en": [
+          "Cane Begonia",
+          "Polka Dot Begonia"
+        ],
+        "es": [
+          "Begonia maculata",
+          "Begonia lunares",
+          "Begonia alas de ángel"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Hibiscus rosa-sinensis",
+      "slug": "hibiscus-rosa-sinensis",
+      "category": "shrubs",
+      "common_names": {
+        "pt": [
+          "brinco-de-princesa",
+          "graxa-de-estudante",
+          "hibisco",
+          "hibisco-colorama",
+          "hibisco-da-china",
+          "mimo-chinês",
+          "mimo-de-vênus",
+          "rosa-da-China"
+        ],
+        "en": [
+          "China-rose",
+          "Chinese Hibiscus",
+          "Hawaiian hibiscus",
+          "Hibiscus",
+          "Shoeblackplant",
+          "rose-of-China",
+          "shoe-black plant"
+        ],
+        "es": [
+          "Cayena",
+          "clavel japonés",
+          "Hibisco"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Rosa chinensis",
+      "slug": "rosa-chinensis",
+      "category": "shrubs",
+      "common_names": {
+        "pt": [
+          "roseira"
+        ],
+        "en": [
+          "Bengal rose",
+          "China Rose",
+          "Chinese rose"
+        ],
+        "es": [
+          "Rosa china",
+          "Rosa de Castilla"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Gardenia jasminoides",
+      "slug": "gardenia-jasminoides",
+      "category": "shrubs",
+      "common_names": {
+        "pt": [
+          "Gardênia-jasmim",
+          "flor-do-general",
+          "gardênia",
+          "jasmim-do-cabo",
+          "jasmin-do-cabo"
+        ],
+        "en": [
+          "Cape Jasmine",
+          "Cape-jessamine",
+          "Gargenia",
+          "common gardenia",
+          "danh-danh",
+          "gardenia",
+          "jasmin"
+        ],
+        "es": [
+          "Gardenia asiática",
+          "Jazmín del Cabo",
+          "Gardenia"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "hard",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Hydrangea macrophylla",
+      "slug": "hydrangea-macrophylla",
+      "category": "shrubs",
+      "common_names": {
+        "pt": [
+          "Hidrângea",
+          "Hortense",
+          "Hortência",
+          "hortênsia",
+          "novelão",
+          "rosa-do-Japão"
+        ],
+        "en": [
+          "Bigleaf Hydrangea",
+          "Chinese sweetleaf",
+          "French hydrangea",
+          "Hydrangea",
+          "common hydrangea",
+          "hortensia",
+          "lacecap hydrangea",
+          "mophead hydrangea"
+        ],
+        "es": [
+          "Hortensia japonesa",
+          "hortensias",
+          "novelos"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 4,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Ixora coccinea",
+      "slug": "ixora-coccinea",
+      "category": "shrubs",
+      "common_names": {
+        "pt": [
+          "Ixória",
+          "Ixora",
+          "Buquê-de-noiva"
+        ],
+        "en": [
+          "Jungle geranium",
+          "Flame of the woods",
+          "Ixora"
+        ],
+        "es": [
+          "Ixora",
+          "Coralillo",
+          "Geranio de la selva"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Catharanthus roseus",
+      "slug": "catharanthus-roseus",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "boa-noite",
+          "boa-tarde",
+          "flor-de-todo-ano",
+          "lavadeira",
+          "maria-sem-vergonha",
+          "pervinca-rosa",
+          "vinca",
+          "vinca-de-gato",
+          "vinca-de-madagascar",
+          "vinca-rósea"
+        ],
+        "en": [
+          "Billygoat Weed",
+          "Cape periwinkle",
+          "Churchyard Blossom",
+          "Madagascar periwinkle",
+          "Madalena Blanco",
+          "Old Church Blossom",
+          "Old Maids Olleander",
+          "Oldmaid",
+          "Periwinkle",
+          "Pink Periwinkle",
+          "Rose Periwinkle",
+          "Tropical Periwinkle",
+          "White Vinca Flower",
+          "bright-eyes"
+        ],
+        "es": [
+          "Adorna patio",
+          "Besitos",
+          "Catalana",
+          "Chabelita",
+          "Coneja",
+          "Espanta novia",
+          "Flor boba",
+          "Jabonera de Madagascar",
+          "Mujer vegana",
+          "Rosa catalana",
+          "Todo el año",
+          "Vagabunda vegana",
+          "Vicaria",
+          "chatas"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Tagetes erecta",
+      "slug": "tagetes-erecta",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "cravo-africano",
+          "cravo-de-defunto",
+          "maravilha"
+        ],
+        "en": [
+          "African Marigold",
+          "African Or French Marigold",
+          "American Marigold",
+          "Aztec Marigold",
+          "Big Marigold",
+          "French Marigold",
+          "Marigold",
+          "Mexican Marigold",
+          "Saffron Marigold"
+        ],
+        "es": [
+          "Cempasúchil",
+          "Clavelitos de muerto",
+          "Flor de muerto"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 4,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Zinnia elegans",
+      "slug": "zinnia-elegans",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "canela-de-velho",
+          "zínia"
+        ],
+        "en": [
+          "Common Zinnia",
+          "Elegant Or Garden Zinnia",
+          "Elegant Zinnia",
+          "Garden Zinnia",
+          "Young's helleborine",
+          "Youth-and-age",
+          "Youth and old age",
+          "Zinnia"
+        ],
+        "es": [
+          "Carolina amarilla",
+          "Mal de ojo",
+          "San Rafael"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 4,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Dahlia pinnata",
+      "slug": "dahlia-pinnata",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "dália",
+          "dália-de-jardim"
+        ],
+        "en": [
+          "Dahlia",
+          "Garden Dahlia",
+          "Pinnate Dahlia"
+        ],
+        "es": [
+          "Dalia"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 4,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Chrysanthemum morifolium",
+      "slug": "chrysanthemum-morifolium",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "crisântemo",
+          "crisântemo-da-china"
+        ],
+        "en": [
+          "Chrysanthemum",
+          "Mum",
+          "Florist's daisy"
+        ],
+        "es": [
+          "Crisantemo",
+          "Mum"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Gerbera jamesonii",
+      "slug": "gerbera-jamesonii",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "gebra",
+          "gerbera",
+          "margarida-da-áfrica",
+          "margarida-do-transvaal"
+        ],
+        "en": [
+          "African daisy",
+          "Barberton Daisy",
+          "Barberton Gerbera",
+          "Gerbera Daisy",
+          "Transvaal Daisy",
+          "flame-ray daisy",
+          "veldt daisy"
+        ],
+        "es": [
+          "Caléndula",
+          "Margarita del Transvaal",
+          "yerbera"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Antirrhinum majus",
+      "slug": "antirrhinum-majus",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "Boca-de-leão",
+          "Bocas-de-dragão"
+        ],
+        "en": [
+          "Garden Snapdragon",
+          "Snapdragon",
+          "Common Snapdragon",
+          "Greater Snapdragon"
+        ],
+        "es": [
+          "Conejito",
+          "Dragonaria",
+          "Dragón",
+          "Flor de Perritos",
+          "boca de dragón",
+          "bocas-de-lobo",
+          "coelhinhos",
+          "erva-bezerra",
+          "papoes"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 4,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Clivia miniata",
+      "slug": "clivia-miniata",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "Clívia",
+          "Lírio-do-natal"
+        ],
+        "en": [
+          "Clivia",
+          "Natal lily",
+          "Bush lily",
+          "Kaffir lily"
+        ],
+        "es": [
+          "Clivia",
+          "Lirio de fuego",
+          "Lirio de Natal"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 8,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Zantedeschia aethiopica",
+      "slug": "zantedeschia-aethiopica",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "bigalhó",
+          "cala-branca",
+          "copo-de-leite",
+          "jarro",
+          "jarro-de-jardim",
+          "lírio-do-nilo"
+        ],
+        "en": [
+          "Altar-Lily",
+          "Arum Lily",
+          "Arun Lily",
+          "Calla lily",
+          "Common Arum",
+          "Common Arum Lily",
+          "Egyption Lily",
+          "Florist's Calla",
+          "Garden Calla",
+          "Green Cala Lily",
+          "Green Goddess",
+          "Jack-In-The-Pulpit",
+          "Lily Of The Nile",
+          "Pig Lily"
+        ],
+        "es": [
+          "Alcatraz sudafricano",
+          "cala",
+          "cartucho",
+          "cometa de ángel",
+          "serpentina-brava"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Strelitzia reginae",
+      "slug": "strelitzia-reginae",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "Ave-do-paraíso",
+          "Estrelícia",
+          "bananeira-rainha",
+          "estrelítzia",
+          "flor-ave-do-paraíso",
+          "flor-da-rainha"
+        ],
+        "en": [
+          "bird of paradise",
+          "common bird-of-paradise flower",
+          "craneflower"
+        ],
+        "es": [
+          "Ave del paraíso",
+          "flor de ave del paraíso",
+          "flor del pájaro"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Alpinia zerumbet",
+      "slug": "alpinia-zerumbet",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "Colônia",
+          "Gengibre-concha"
+        ],
+        "en": [
+          "Shell Ginger",
+          "Shell-flower",
+          "Shellplant",
+          "light galangal",
+          "pink porcelain lily",
+          "shell plant",
+          "shellflower"
+        ],
+        "es": [
+          "Antorcha",
+          "Lágrimas de San Juan"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Nerium oleander",
+      "slug": "nerium-oleander",
+      "category": "shrubs",
+      "common_names": {
+        "pt": [
+          "espirradeira",
+          "oleandro"
+        ],
+        "en": [
+          "Ceylone Rose",
+          "Ceylonrose",
+          "Ceylons Rose",
+          "Dog-Bane",
+          "Double Oleander",
+          "Oleander",
+          "Rose Laurel",
+          "Rosebay",
+          "Sweet-Scented Oleander",
+          "common oleander",
+          "rose bay"
+        ],
+        "es": [
+          "Adelfa blanca y rosa",
+          "Laurel de jardín",
+          "Narciso",
+          "adelfa",
+          "balandre",
+          "laurel rosa",
+          "mavaldra",
+          "pascua",
+          "rosa laurel"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Duranta erecta",
+      "slug": "duranta-erecta",
+      "category": "shrubs",
+      "common_names": {
+        "pt": [
+          "Pingo-de-Ouro",
+          "Violeteira"
+        ],
+        "en": [
+          "Forget-Me-Not-Tree",
+          "Golden dewdrops",
+          "golden dewdrop",
+          "pigeonberry",
+          "skyflower",
+          "Adonis",
+          "pigeon berry"
+        ],
+        "es": [
+          "Coralillo",
+          "Garbancillo",
+          "Ramo de novia",
+          "Tala blanco"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Ocimum basilicum",
+      "slug": "ocimum-basilicum",
+      "category": "herbs",
+      "common_names": {
+        "pt": [
+          "alfavaca",
+          "alfavaca-cheirosa",
+          "alfavacão",
+          "basilicum-grande",
+          "basilicão",
+          "erva-real",
+          "manjericão",
+          "manjericão-de-molho",
+          "manjericão-grande"
+        ],
+        "en": [
+          "Basil",
+          "Sweet Basil",
+          "thai basil"
+        ],
+        "es": [
+          "Albahaca dulce",
+          "albahaca"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 3,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Mentha spicata",
+      "slug": "mentha-spicata",
+      "category": "herbs",
+      "common_names": {
+        "pt": [
+          "hortelã-comum",
+          "hortelã-crespa",
+          "hortelã-preta",
+          "hortelã-verde",
+          "hortelã-verde-dos-açores",
+          "hortelã-vulgar",
+          "Hortelã"
+        ],
+        "en": [
+          "Bush Mint",
+          "Spear Mint",
+          "Spearmint"
+        ],
+        "es": [
+          "menta romana",
+          "yerbabuena",
+          "Hierbabuena"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 3,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Petroselinum crispum",
+      "slug": "petroselinum-crispum",
+      "category": "herbs",
+      "common_names": {
+        "pt": [
+          "cheiro-verde",
+          "salsa",
+          "salsa-comum",
+          "salsa-hortense",
+          "salsinha"
+        ],
+        "en": [
+          "Garden Parsley",
+          "Parsley",
+          "Common Parsley"
+        ],
+        "es": [
+          "perejil"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 3,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Coriandrum sativum",
+      "slug": "coriandrum-sativum",
+      "category": "herbs",
+      "common_names": {
+        "pt": [
+          "coendro",
+          "coentro",
+          "coentro-das-hortas",
+          "coentros",
+          "coriandro",
+          "cuentro"
+        ],
+        "en": [
+          "Chinese Parsley",
+          "Cilantro",
+          "Coriander"
+        ],
+        "es": [
+          "culantro"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 3,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Thymus vulgaris",
+      "slug": "thymus-vulgaris",
+      "category": "herbs",
+      "common_names": {
+        "pt": [
+          "poejo",
+          "tomilho"
+        ],
+        "en": [
+          "Common Thyme",
+          "English Thyme",
+          "Garden Thyme",
+          "Thyme"
+        ],
+        "es": [
+          "Tomillo",
+          "Tomillo Común",
+          "tomillo limonero"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Salvia officinalis",
+      "slug": "salvia-officinalis",
+      "category": "herbs",
+      "common_names": {
+        "pt": [
+          "Chá-da-Grécia",
+          "Sálvia-comum",
+          "Sálvia-das-boticas",
+          "salva",
+          "salva-das-obticas",
+          "sálvia"
+        ],
+        "en": [
+          "Common Sage",
+          "Culinary Sage",
+          "Golden Sage",
+          "Kitchen Sage",
+          "Sage",
+          "Garden Sage"
+        ],
+        "es": [
+          "Mermasangre",
+          "Salvia",
+          "Salvia Real",
+          "Salvia dulce",
+          "Salvia fina"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Origanum vulgare",
+      "slug": "origanum-vulgare",
+      "category": "herbs",
+      "common_names": {
+        "pt": [
+          "Orégão",
+          "manjerona-selvagem",
+          "orégano"
+        ],
+        "en": [
+          "Oregano",
+          "Wild Marjoram",
+          "Winter Sweet"
+        ],
+        "es": [
+          "Orégano del Mediterráneo",
+          "orégano"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Lavandula angustifolia",
+      "slug": "lavandula-angustifolia",
+      "category": "aromatics",
+      "common_names": {
+        "pt": [
+          "alfazema",
+          "lavanda"
+        ],
+        "en": [
+          "English Lavendar",
+          "English Lavender",
+          "Garden Lavender",
+          "Lavender",
+          "Common Lavender"
+        ],
+        "es": [
+          "Lavanda",
+          "Espliego",
+          "Alhucema"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 10,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Rosmarinus officinalis",
+      "slug": "rosmarinus-officinalis",
+      "category": "herbs",
+      "common_names": {
+        "pt": [
+          "alecrim",
+          "rosmarino"
+        ],
+        "en": [
+          "Rosemary",
+          "romero"
+        ],
+        "es": [
+          "romero"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Sedum morganianum",
+      "slug": "sedum-morganianum",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "Dedinho-de-Moça",
+          "arroz-de-rato",
+          "dedo-de-moça",
+          "rabo-de-burro",
+          "rabo-de-cavalo"
+        ],
+        "en": [
+          "Donkeytail",
+          "burro's-tail",
+          "donkey's-tail"
+        ],
+        "es": [
+          "Borrego",
+          "Platanitos"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 16,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Sempervivum tectorum",
+      "slug": "sempervivum-tectorum",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "rosa-de-engrenagem",
+          "saião-curto",
+          "sempre-viva-dos-telhados",
+          "sempre-vivas",
+          "sempre-vivas-dos-telhados"
+        ],
+        "en": [
+          "Common Houseleek",
+          "House-Leek",
+          "Houseleek",
+          "Hen-and-chickens",
+          "Hen-and-chicks"
+        ],
+        "es": [
+          "Siempreviva",
+          "Siempreviva mayor",
+          "Uña de gato"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 18,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Aeonium arboreum",
+      "slug": "aeonium-arboreum",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "Saião-maior",
+          "aeonium-negro",
+          "amor-verde",
+          "catavento",
+          "ensaião",
+          "rosa-negra",
+          "saião"
+        ],
+        "en": [
+          "Tree Aeonium",
+          "Tree aenium"
+        ],
+        "es": [
+          "Siempreviva arbórea",
+          "aeonium",
+          "rosa verde",
+          "saiao"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 14,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Kalanchoe tomentosa",
+      "slug": "kalanchoe-tomentosa",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "orelha-de-gato",
+          "orelha-de-lebre"
+        ],
+        "en": [
+          "Panda Plant"
+        ],
+        "es": [
+          "Orejas de gato",
+          "Planta panda",
+          "Orejas de conejo"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 16,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Portulacaria afra",
+      "slug": "portulacaria-afra",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "arbusto-de-elefante",
+          "pata-de-elefante",
+          "planta-jade-miúda"
+        ],
+        "en": [
+          "Common Spekboom",
+          "Elephant Bush",
+          "Elephant Food",
+          "Elephant's Food",
+          "Porkbush"
+        ],
+        "es": [
+          "Jade",
+          "Árbol africano de la abundancia"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 14,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Curio rowleyanus",
+      "slug": "curio-rowleyanus",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "colar-de-pérolas",
+          "rosário"
+        ],
+        "en": [
+          "String-Of-Beads Senecio",
+          "String-of-Pearls",
+          "string-of-beads"
+        ],
+        "es": [
+          "Suculenta Rosario"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 14,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Aloe arborescens",
+      "slug": "aloe-arborescens",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "aloe",
+          "aloe-candelabro",
+          "aloé-dos-cem-anos",
+          "babosa",
+          "foguetes-de-natal"
+        ],
+        "en": [
+          "Candelabra Aloe",
+          "Cliff Aloe",
+          "Japan Aloe",
+          "Kidachi aloe",
+          "Kraal Aloe",
+          "Krantz Aloe",
+          "Krantz or Candelabra Aloe",
+          "Kranz aloe",
+          "Mountain Bush Aloe",
+          "Oldenland's Bush Aloe",
+          "Torch Aloe",
+          "candelabra plant",
+          "krans aloe",
+          "octopus plant"
+        ],
+        "es": [
+          "Aloe candelabro",
+          "Sábila candelabro africano",
+          "acíbar",
+          "aloe",
+          "aloé arborescente",
+          "atzavara",
+          "balsemera",
+          "pulpos",
+          "sávila",
+          "zabila",
+          "zabira"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 18,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Opuntia ficus-indica",
+      "slug": "opuntia-ficus-indica",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "Arumbeba-cuí",
+          "Arumbeba-de-palma-rajada",
+          "Nopal",
+          "Palma-dos-pampas",
+          "Palmatória-de-fruto-vermelho",
+          "Tabaibeira",
+          "figo-da-Espanha",
+          "figo-da-Índia",
+          "figueira-da-Barbária",
+          "figueira-da-índia",
+          "jamaracá",
+          "jurumbeba",
+          "orelha-de-onça",
+          "palma"
+        ],
+        "en": [
+          "Barbary fig",
+          "Barberry Fig",
+          "Cochineal Fig",
+          "Common Prickly Pear",
+          "English Prickly-Pear",
+          "Indian fig opuntia",
+          "Indian fig",
+          "Indian-fig prickly-pear",
+          "Irish-Mittens",
+          "Pest Prickly Pear",
+          "Prickly Pear Cactus",
+          "Prickly pear",
+          "Sour Prickly-Pear",
+          "Sweet Pickle"
+        ],
+        "es": [
+          "Nopal blanco",
+          "Nopal de Castilla",
+          "Nopal oreja de elefante",
+          "chumba",
+          "chumbera",
+          "figueira-da-índia",
+          "higuera",
+          "higuera chumba",
+          "nopal",
+          "nopal pelón",
+          "tuna",
+          "tuna de Castilla",
+          "tuna mansa"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 20,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Schlumbergera truncata",
+      "slug": "schlumbergera-truncata",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "Cambaia-flor-de-maio",
+          "flor-de-maio",
+          "flor-de-seda"
+        ],
+        "en": [
+          "False Christmas Cactus",
+          "Thanksgiving cactus",
+          "claw cactus",
+          "crab cactus",
+          "linkleaf",
+          "yoke cactus"
+        ],
+        "es": [
+          "Cactus de Navidad",
+          "Santa Teresita",
+          "Flor de mayo"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 10,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Euphorbia milii",
+      "slug": "euphorbia-milii",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "bem-casado",
+          "bem-casados",
+          "colchão-de-noiva",
+          "coroa-de-cristo",
+          "coroa-de-espinho",
+          "dois-irmãos",
+          "martírios"
+        ],
+        "en": [
+          "Christ's-plant",
+          "Christ's-thorn",
+          "Christplant",
+          "crown-of-thorns"
+        ],
+        "es": [
+          "corona de Cristo"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 12,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Euphorbia trigona",
+      "slug": "euphorbia-trigona",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "candelabro",
+          "leiteira",
+          "planta-candelabro"
+        ],
+        "en": [
+          "African milktree"
+        ],
+        "es": [
+          "Cactus catedral",
+          "Euforbia africana",
+          "Árbol de la leche africano"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 14,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Euphorbia tirucalli",
+      "slug": "euphorbia-tirucalli",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "almeidinha",
+          "aveloz",
+          "avelós",
+          "avelóz-dourado",
+          "cega-olho",
+          "espinho-de-cristo",
+          "gaiolinha",
+          "palito-de-fogo",
+          "pau-sobre-pau"
+        ],
+        "en": [
+          "African milkbush",
+          "Indian tree spurge",
+          "Indiantree Spurge",
+          "fingertree",
+          "milkbush",
+          "milkhedge",
+          "naked-lady",
+          "penciltree",
+          "petroleum-plant",
+          "rubber euphorbia",
+          "milk bush",
+          "pencil tree"
+        ],
+        "es": [
+          "aveloz",
+          "consuelda"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 16,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Agave americana",
+      "slug": "agave-americana",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "agave-azul",
+          "aloé-dos-cem-anos",
+          "cacto-dos-cem-anos",
+          "pita",
+          "pita-azul",
+          "piteira",
+          "piteira-azul",
+          "piteira-brava",
+          "piteira-de-boi"
+        ],
+        "en": [
+          "American Agave",
+          "American Century Plant",
+          "American-aloe",
+          "century plant",
+          "Centuryplant"
+        ],
+        "es": [
+          "Maguey Americano",
+          "acibara",
+          "agabe",
+          "atzavara",
+          "atzavara de tanques",
+          "azabara",
+          "cabuya",
+          "cardal",
+          "maguey",
+          "pita",
+          "pitaco",
+          "pitera"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 20,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Solanum lycopersicum",
+      "slug": "tomato",
+      "category": "vegetables",
+      "common_names": {
+        "pt": [
+          "Tomate",
+          "Tomateiro",
+          "Tomate-cereja"
+        ],
+        "en": [
+          "Tomato",
+          "Cherry tomato",
+          "Tomato plant"
+        ],
+        "es": [
+          "Tomate",
+          "Jitomate",
+          "Tomatera"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 3,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Capsicum annuum",
+      "slug": "pepper",
+      "category": "vegetables",
+      "common_names": {
+        "pt": [
+          "Pimentão",
+          "Pimenta",
+          "Pimenta-de-cheiro"
+        ],
+        "en": [
+          "Pepper",
+          "Bell pepper",
+          "Chili pepper",
+          "Sweet pepper"
+        ],
+        "es": [
+          "Pimiento",
+          "Chile",
+          "Ají",
+          "Morrón"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 3,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Solanum melongena",
+      "slug": "eggplant",
+      "category": "vegetables",
+      "common_names": {
+        "pt": [
+          "Berinjela"
+        ],
+        "en": [
+          "Eggplant",
+          "Aubergine"
+        ],
+        "es": [
+          "Berenjena"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 3,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Cucumis sativus",
+      "slug": "cucumber",
+      "category": "vegetables",
+      "common_names": {
+        "pt": [
+          "Pepino"
+        ],
+        "en": [
+          "Cucumber"
+        ],
+        "es": [
+          "Pepino"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 2,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Lactuca sativa",
+      "slug": "lettuce",
+      "category": "vegetables",
+      "common_names": {
+        "pt": [
+          "Alface"
+        ],
+        "en": [
+          "Lettuce"
+        ],
+        "es": [
+          "Lechuga"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 2,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Daucus carota",
+      "slug": "carrot",
+      "category": "vegetables",
+      "common_names": {
+        "pt": [
+          "Cenoura"
+        ],
+        "en": [
+          "Carrot"
+        ],
+        "es": [
+          "Zanahoria"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 3,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Phaseolus vulgaris",
+      "slug": "common-bean",
+      "category": "vegetables",
+      "common_names": {
+        "pt": [
+          "Feijão",
+          "Feijoeiro",
+          "Vagem"
+        ],
+        "en": [
+          "Common bean",
+          "Green bean",
+          "String bean"
+        ],
+        "es": [
+          "Frijol",
+          "Poroto",
+          "Judía",
+          "Ejote",
+          "Chaucha"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 3,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Zea mays",
+      "slug": "corn",
+      "category": "vegetables",
+      "common_names": {
+        "pt": [
+          "Milho",
+          "Milho-verde"
+        ],
+        "en": [
+          "Corn",
+          "Maize",
+          "Sweet corn"
+        ],
+        "es": [
+          "Maíz",
+          "Elote",
+          "Choclo",
+          "Mazorca"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 3,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Cucurbita pepo",
+      "slug": "zucchini",
+      "category": "vegetables",
+      "common_names": {
+        "pt": [
+          "Abobrinha",
+          "Abóbora",
+          "Courgette"
+        ],
+        "en": [
+          "Zucchini",
+          "Courgette",
+          "Summer squash"
+        ],
+        "es": [
+          "Calabacín",
+          "Calabacita",
+          "Zapallito",
+          "Zucchini"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 3,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Spinacia oleracea",
+      "slug": "spinach",
+      "category": "vegetables",
+      "common_names": {
+        "pt": [
+          "Espinafre"
+        ],
+        "en": [
+          "Spinach"
+        ],
+        "es": [
+          "Espinaca"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 2,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Brassica oleracea",
+      "slug": "cabbage",
+      "category": "vegetables",
+      "common_names": {
+        "pt": [
+          "Couve",
+          "Repolho",
+          "Couve-manteiga",
+          "Couve-flor",
+          "Brócolis"
+        ],
+        "en": [
+          "Cabbage",
+          "Kale",
+          "Cauliflower",
+          "Broccoli",
+          "Collard greens"
+        ],
+        "es": [
+          "Col",
+          "Repollo",
+          "Berza",
+          "Coliflor",
+          "Brócoli"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 3,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Allium cepa",
+      "slug": "onion",
+      "category": "vegetables",
+      "common_names": {
+        "pt": [
+          "Cebola"
+        ],
+        "en": [
+          "Onion"
+        ],
+        "es": [
+          "Cebolla"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 3,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Allium sativum",
+      "slug": "garlic",
+      "category": "vegetables",
+      "common_names": {
+        "pt": [
+          "Alho"
+        ],
+        "en": [
+          "Garlic"
+        ],
+        "es": [
+          "Ajo"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 4,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Beta vulgaris",
+      "slug": "beet",
+      "category": "vegetables",
+      "common_names": {
+        "pt": [
+          "Beterraba",
+          "Acelga"
+        ],
+        "en": [
+          "Beet",
+          "Beetroot",
+          "Chard"
+        ],
+        "es": [
+          "Remolacha",
+          "Betabel",
+          "Acelga",
+          "Betarraga"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 3,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Raphanus sativus",
+      "slug": "radish",
+      "category": "vegetables",
+      "common_names": {
+        "pt": [
+          "Rabanete"
+        ],
+        "en": [
+          "Radish"
+        ],
+        "es": [
+          "Rábano",
+          "Rabanito"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 3,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Pisum sativum",
+      "slug": "pea",
+      "category": "vegetables",
+      "common_names": {
+        "pt": [
+          "Ervilha"
+        ],
+        "en": [
+          "Pea",
+          "Garden pea"
+        ],
+        "es": [
+          "Arveja",
+          "Guisante",
+          "Chícharo"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 3,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Solanum tuberosum",
+      "slug": "potato",
+      "category": "vegetables",
+      "common_names": {
+        "pt": [
+          "Batata",
+          "Batata-inglesa"
+        ],
+        "en": [
+          "Potato"
+        ],
+        "es": [
+          "Papa",
+          "Patata"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 4,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Ipomoea batatas",
+      "slug": "sweet-potato",
+      "category": "vegetables",
+      "common_names": {
+        "pt": [
+          "Batata-doce"
+        ],
+        "en": [
+          "Sweet potato"
+        ],
+        "es": [
+          "Camote",
+          "Batata",
+          "Boniato"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 4,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Fragaria ananassa",
+      "slug": "strawberry",
+      "category": "vegetables",
+      "common_names": {
+        "pt": [
+          "Morango",
+          "Morangueiro"
+        ],
+        "en": [
+          "Strawberry"
+        ],
+        "es": [
+          "Fresa",
+          "Frutilla"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 3,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Cynara scolymus",
+      "slug": "artichoke",
+      "category": "vegetables",
+      "common_names": {
+        "pt": [
+          "Alcachofra"
+        ],
+        "en": [
+          "Artichoke",
+          "Globe artichoke"
+        ],
+        "es": [
+          "Alcachofa",
+          "Alcaucil"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 4,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Sechium edule",
+      "slug": "chayote",
+      "category": "vegetables",
+      "common_names": {
+        "pt": [
+          "Chuchu",
+          "Xuxu"
+        ],
+        "en": [
+          "Chayote",
+          "Mirliton"
+        ],
+        "es": [
+          "Chayote",
+          "Guatila",
+          "Cidra",
+          "Papa de aire"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 4,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Allium fistulosum",
+      "slug": "green-onion",
+      "category": "herbs",
+      "common_names": {
+        "pt": [
+          "Cebolinha",
+          "Cebolinha-verde"
+        ],
+        "en": [
+          "Green onion",
+          "Scallion",
+          "Welsh onion",
+          "Spring onion"
+        ],
+        "es": [
+          "Cebollín",
+          "Cebolla de verdeo",
+          "Cebolla larga",
+          "Cebolleta"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 3,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Cymbopogon citratus",
+      "slug": "lemongrass",
+      "category": "herbs",
+      "common_names": {
+        "pt": [
+          "Capim-limão",
+          "Capim-santo",
+          "Capim-cidreira"
+        ],
+        "en": [
+          "Lemongrass"
+        ],
+        "es": [
+          "Hierba luisa",
+          "Zacate limón",
+          "Té de limón",
+          "Limoncillo"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 4,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Melissa officinalis",
+      "slug": "lemon-balm",
+      "category": "herbs",
+      "common_names": {
+        "pt": [
+          "Erva-cidreira",
+          "Melissa"
+        ],
+        "en": [
+          "Lemon balm"
+        ],
+        "es": [
+          "Toronjil",
+          "Melisa"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 4,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Aloysia citrodora",
+      "slug": "lemon-verbena",
+      "category": "herbs",
+      "common_names": {
+        "pt": [
+          "Erva-luísa",
+          "Lúcia-lima"
+        ],
+        "en": [
+          "Lemon verbena"
+        ],
+        "es": [
+          "Cedrón",
+          "Hierba luisa",
+          "Verbena de olor"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Ruta graveolens",
+      "slug": "rue",
+      "category": "herbs",
+      "common_names": {
+        "pt": [
+          "Arruda"
+        ],
+        "en": [
+          "Rue",
+          "Common rue"
+        ],
+        "es": [
+          "Ruda"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Origanum majorana",
+      "slug": "marjoram",
+      "category": "herbs",
+      "common_names": {
+        "pt": [
+          "Manjerona"
+        ],
+        "en": [
+          "Marjoram",
+          "Sweet marjoram"
+        ],
+        "es": [
+          "Mejorana"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Anethum graveolens",
+      "slug": "dill",
+      "category": "herbs",
+      "common_names": {
+        "pt": [
+          "Endro",
+          "Aneto",
+          "Dill"
+        ],
+        "en": [
+          "Dill"
+        ],
+        "es": [
+          "Eneldo"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 4,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Foeniculum vulgare",
+      "slug": "fennel",
+      "category": "herbs",
+      "common_names": {
+        "pt": [
+          "Funcho",
+          "Erva-doce",
+          "Anis"
+        ],
+        "en": [
+          "Fennel"
+        ],
+        "es": [
+          "Hinojo"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Stevia rebaudiana",
+      "slug": "stevia",
+      "category": "herbs",
+      "common_names": {
+        "pt": [
+          "Estévia",
+          "Erva-doce-do-paraguai"
+        ],
+        "en": [
+          "Stevia",
+          "Sweetleaf"
+        ],
+        "es": [
+          "Estevia",
+          "Hierba dulce",
+          "Ka'a he'ê"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 4,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Plectranthus barbatus",
+      "slug": "boldo",
+      "category": "herbs",
+      "common_names": {
+        "pt": [
+          "Boldo",
+          "Boldo-brasileiro",
+          "Falso-boldo"
+        ],
+        "en": [
+          "Boldo",
+          "Indian borage"
+        ],
+        "es": [
+          "Boldo",
+          "Falso boldo"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Chenopodium ambrosioides",
+      "slug": "epazote",
+      "category": "herbs",
+      "common_names": {
+        "pt": [
+          "Erva-de-santa-maria",
+          "Mastruz",
+          "Mastruço"
+        ],
+        "en": [
+          "Epazote",
+          "Mexican tea",
+          "Wormseed"
+        ],
+        "es": [
+          "Epazote",
+          "Paico",
+          "Hierba santa maría"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Tropaeolum majus",
+      "slug": "nasturtium",
+      "category": "herbs",
+      "common_names": {
+        "pt": [
+          "Capuchinha",
+          "Chagas",
+          "Nastúrcio"
+        ],
+        "en": [
+          "Nasturtium",
+          "Garden nasturtium"
+        ],
+        "es": [
+          "Capuchina",
+          "Taco de reina",
+          "Mastuerzo"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 4,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Citrus limon",
+      "slug": "lemon-tree",
+      "category": "trees",
+      "common_names": {
+        "pt": [
+          "Limão",
+          "Limoeiro",
+          "Limão-siciliano"
+        ],
+        "en": [
+          "Lemon",
+          "Lemon tree"
+        ],
+        "es": [
+          "Limón",
+          "Limonero"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Citrus sinensis",
+      "slug": "orange-tree",
+      "category": "trees",
+      "common_names": {
+        "pt": [
+          "Laranja",
+          "Laranjeira"
+        ],
+        "en": [
+          "Orange",
+          "Orange tree",
+          "Sweet orange"
+        ],
+        "es": [
+          "Naranja",
+          "Naranjo"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Citrus reticulata",
+      "slug": "mandarin",
+      "category": "trees",
+      "common_names": {
+        "pt": [
+          "Tangerina",
+          "Mexerica",
+          "Bergamota",
+          "Mimosa"
+        ],
+        "en": [
+          "Mandarin",
+          "Tangerine"
+        ],
+        "es": [
+          "Mandarina",
+          "Mandarino"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Citrus aurantiifolia",
+      "slug": "lime",
+      "category": "trees",
+      "common_names": {
+        "pt": [
+          "Limão-taiti",
+          "Lima",
+          "Limão-galego"
+        ],
+        "en": [
+          "Lime",
+          "Key lime"
+        ],
+        "es": [
+          "Lima",
+          "Limón",
+          "Limón sutil"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Persea americana",
+      "slug": "avocado",
+      "category": "trees",
+      "common_names": {
+        "pt": [
+          "Abacate",
+          "Abacateiro"
+        ],
+        "en": [
+          "Avocado",
+          "Avocado tree"
+        ],
+        "es": [
+          "Aguacate",
+          "Palta"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Carica papaya",
+      "slug": "papaya",
+      "category": "trees",
+      "common_names": {
+        "pt": [
+          "Mamão",
+          "Mamoeiro",
+          "Papaia"
+        ],
+        "en": [
+          "Papaya",
+          "Pawpaw"
+        ],
+        "es": [
+          "Papaya",
+          "Lechosa",
+          "Fruta bomba",
+          "Mamón"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Psidium guajava",
+      "slug": "guava",
+      "category": "trees",
+      "common_names": {
+        "pt": [
+          "Goiaba",
+          "Goiabeira"
+        ],
+        "en": [
+          "Guava"
+        ],
+        "es": [
+          "Guayaba",
+          "Guayabo"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Mangifera indica",
+      "slug": "mango",
+      "category": "trees",
+      "common_names": {
+        "pt": [
+          "Manga",
+          "Mangueira"
+        ],
+        "en": [
+          "Mango",
+          "Mango tree"
+        ],
+        "es": [
+          "Mango"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Musa paradisiaca",
+      "slug": "banana",
+      "category": "trees",
+      "common_names": {
+        "pt": [
+          "Banana",
+          "Bananeira",
+          "Banana-nanica"
+        ],
+        "en": [
+          "Banana",
+          "Banana plant",
+          "Plantain"
+        ],
+        "es": [
+          "Banano",
+          "Plátano",
+          "Guineo",
+          "Cambur"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 4,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Malus domestica",
+      "slug": "apple",
+      "category": "trees",
+      "common_names": {
+        "pt": [
+          "Maçã",
+          "Macieira"
+        ],
+        "en": [
+          "Apple",
+          "Apple tree"
+        ],
+        "es": [
+          "Manzana",
+          "Manzano"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Prunus persica",
+      "slug": "peach",
+      "category": "trees",
+      "common_names": {
+        "pt": [
+          "Pêssego",
+          "Pessegueiro"
+        ],
+        "en": [
+          "Peach",
+          "Peach tree"
+        ],
+        "es": [
+          "Durazno",
+          "Melocotón",
+          "Duraznero"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Ficus carica",
+      "slug": "fig-tree",
+      "category": "trees",
+      "common_names": {
+        "pt": [
+          "Figo",
+          "Figueira"
+        ],
+        "en": [
+          "Fig",
+          "Common fig",
+          "Fig tree"
+        ],
+        "es": [
+          "Higo",
+          "Higuera"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Olea europaea",
+      "slug": "olive",
+      "category": "trees",
+      "common_names": {
+        "pt": [
+          "Oliveira",
+          "Azeitona"
+        ],
+        "en": [
+          "Olive",
+          "Olive tree"
+        ],
+        "es": [
+          "Olivo",
+          "Aceituna",
+          "Olivera"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 8,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Coffea arabica",
+      "slug": "coffee",
+      "category": "shrubs",
+      "common_names": {
+        "pt": [
+          "Café",
+          "Cafeeiro",
+          "Cafezeiro"
+        ],
+        "en": [
+          "Coffee",
+          "Coffee plant",
+          "Arabica coffee"
+        ],
+        "es": [
+          "Café",
+          "Cafeto"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Punica granatum",
+      "slug": "pomegranate",
+      "category": "shrubs",
+      "common_names": {
+        "pt": [
+          "Romã",
+          "Romãzeira"
+        ],
+        "en": [
+          "Pomegranate"
+        ],
+        "es": [
+          "Granada",
+          "Granado"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 8,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Vitis vinifera",
+      "slug": "grape",
+      "category": "shrubs",
+      "common_names": {
+        "pt": [
+          "Uva",
+          "Videira",
+          "Parreira",
+          "Vinha"
+        ],
+        "en": [
+          "Grape",
+          "Grapevine"
+        ],
+        "es": [
+          "Uva",
+          "Vid",
+          "Parra"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Passiflora edulis",
+      "slug": "passion-fruit",
+      "category": "shrubs",
+      "common_names": {
+        "pt": [
+          "Maracujá",
+          "Maracujazeiro",
+          "Flor-da-paixão"
+        ],
+        "en": [
+          "Passion fruit",
+          "Passionflower",
+          "Maypop"
+        ],
+        "es": [
+          "Maracuyá",
+          "Fruta de la pasión",
+          "Parchita",
+          "Mburucuyá"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Physalis peruviana",
+      "slug": "cape-gooseberry",
+      "category": "shrubs",
+      "common_names": {
+        "pt": [
+          "Fisális",
+          "Camapu",
+          "Physalis"
+        ],
+        "en": [
+          "Cape gooseberry",
+          "Goldenberry"
+        ],
+        "es": [
+          "Aguaymanto",
+          "Uchuva",
+          "Uvilla",
+          "Physalis"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Rubus fruticosus",
+      "slug": "blackberry",
+      "category": "shrubs",
+      "common_names": {
+        "pt": [
+          "Amora",
+          "Amora-preta",
+          "Amoreira"
+        ],
+        "en": [
+          "Blackberry"
+        ],
+        "es": [
+          "Mora",
+          "Zarzamora"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Eugenia uniflora",
+      "slug": "surinam-cherry",
+      "category": "shrubs",
+      "common_names": {
+        "pt": [
+          "Pitanga",
+          "Pitangueira"
+        ],
+        "en": [
+          "Surinam cherry",
+          "Pitanga",
+          "Brazilian cherry"
+        ],
+        "es": [
+          "Pitanga",
+          "Cereza de Cayena",
+          "Ñangapirí"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Yucca gigantea",
+      "slug": "yucca",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Iuca",
+          "Iuca-elefante",
+          "Palmeira-iuca"
+        ],
+        "en": [
+          "Yucca",
+          "Spineless yucca",
+          "Stick yucca"
+        ],
+        "es": [
+          "Yuca",
+          "Izote",
+          "Yuca pie de elefante"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 12,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Pachira aquatica",
+      "slug": "money-tree",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Pachira",
+          "Castanha-do-maranhão",
+          "Monguba"
+        ],
+        "en": [
+          "Money tree",
+          "Guiana chestnut",
+          "Malabar chestnut"
+        ],
+        "es": [
+          "Pachira",
+          "Castaño de agua",
+          "Árbol del dinero"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 8,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Dracaena sanderiana",
+      "slug": "lucky-bamboo",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Bambu-da-sorte",
+          "Bambu-da-fortuna"
+        ],
+        "en": [
+          "Lucky bamboo",
+          "Ribbon plant"
+        ],
+        "es": [
+          "Bambú de la suerte",
+          "Lucky bamboo"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Dracaena reflexa",
+      "slug": "song-of-india",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Dracena-canção-da-índia",
+          "Pau-d'água"
+        ],
+        "en": [
+          "Song of India",
+          "Pleomele"
+        ],
+        "es": [
+          "Canción de la India",
+          "Drácena refleja"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 10,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Schefflera actinophylla",
+      "slug": "umbrella-tree",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Cheflera",
+          "Cheflera-grande",
+          "Árvore-guarda-chuva"
+        ],
+        "en": [
+          "Umbrella tree",
+          "Octopus tree",
+          "Schefflera"
+        ],
+        "es": [
+          "Cheflera",
+          "Árbol paraguas",
+          "Chiflera"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 8,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Tradescantia spathacea",
+      "slug": "moses-in-cradle",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Abacaxi-roxo",
+          "Tradescância",
+          "Trapoeraba-roxa"
+        ],
+        "en": [
+          "Moses-in-the-cradle",
+          "Boat lily",
+          "Oyster plant"
+        ],
+        "es": [
+          "Maguey morado",
+          "Santa Lucía",
+          "Sanguinaria"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Peperomia argyreia",
+      "slug": "watermelon-peperomia",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Peperômia-melancia",
+          "Peperômia"
+        ],
+        "en": [
+          "Watermelon peperomia"
+        ],
+        "es": [
+          "Peperomia sandía",
+          "Peperomia melón"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 9,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Calathea makoyana",
+      "slug": "peacock-plant",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Calateia-pavão",
+          "Maranta-pavão"
+        ],
+        "en": [
+          "Peacock plant",
+          "Cathedral windows"
+        ],
+        "es": [
+          "Calatea pavo real",
+          "Planta pavo real"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "hard",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Stromanthe sanguinea",
+      "slug": "stromanthe",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Estromante",
+          "Maranta-tricolor"
+        ],
+        "en": [
+          "Stromanthe",
+          "Triostar",
+          "Magic star"
+        ],
+        "es": [
+          "Estromanta",
+          "Estromante tricolor"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "hard",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Hoya carnosa",
+      "slug": "hoya",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Flor-de-cera",
+          "Hoia",
+          "Flor-de-porcelana"
+        ],
+        "en": [
+          "Wax plant",
+          "Hoya",
+          "Porcelain flower"
+        ],
+        "es": [
+          "Flor de cera",
+          "Hoya",
+          "Flor de porcelana"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 10,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Cissus rhombifolia",
+      "slug": "grape-ivy",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Cissus",
+          "Uva-de-salão",
+          "Cipó-uva"
+        ],
+        "en": [
+          "Grape ivy",
+          "Oakleaf ivy"
+        ],
+        "es": [
+          "Uva de salón",
+          "Cissus",
+          "Hiedra uva",
+          "Parra de interior"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Soleirolia soleirolii",
+      "slug": "babys-tears",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Lágrimas-de-anjo",
+          "Solerólia"
+        ],
+        "en": [
+          "Baby's tears",
+          "Angel's tears"
+        ],
+        "es": [
+          "Lágrimas de ángel",
+          "Helxine"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 4,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Tillandsia ionantha",
+      "slug": "air-plant",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Cravo-do-ar",
+          "Tilândsia",
+          "Filha-do-ar"
+        ],
+        "en": [
+          "Air plant",
+          "Tillandsia",
+          "Sky plant"
+        ],
+        "es": [
+          "Clavel del aire",
+          "Tilandsia",
+          "Planta del aire"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Aphelandra squarrosa",
+      "slug": "aphelandra",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Afelandra",
+          "Planta-zebra"
+        ],
+        "en": [
+          "Zebra plant"
+        ],
+        "es": [
+          "Afelandra",
+          "Planta cebra"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "hard",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Nematanthus gregarius",
+      "slug": "goldfish-plant",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Peixinho",
+          "Flor-peixinho",
+          "Nematanto",
+          "Peixinho-da-horta"
+        ],
+        "en": [
+          "Goldfish plant"
+        ],
+        "es": [
+          "Planta pez",
+          "Nematanthus",
+          "Planta pez dorado"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Philodendron xanadu",
+      "slug": "xanadu",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Filodendro-xanadu",
+          "Xanadu"
+        ],
+        "en": [
+          "Xanadu",
+          "Winterbourn philodendron"
+        ],
+        "es": [
+          "Filodendro xanadu",
+          "Xanadú"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 8,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Helianthus annuus",
+      "slug": "sunflower",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "Girassol"
+        ],
+        "en": [
+          "Sunflower"
+        ],
+        "es": [
+          "Girasol",
+          "Maravilla",
+          "Mirasol"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 3,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Viola wittrockiana",
+      "slug": "pansy",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "Amor-perfeito"
+        ],
+        "en": [
+          "Pansy"
+        ],
+        "es": [
+          "Pensamiento",
+          "Trinitaria"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 4,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Begonia semperflorens",
+      "slug": "wax-begonia",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "Begônia",
+          "Begônia-cerosa",
+          "Beijo"
+        ],
+        "en": [
+          "Wax begonia",
+          "Bedding begonia"
+        ],
+        "es": [
+          "Begonia",
+          "Begonia de flor"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Lilium candidum",
+      "slug": "lily",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "Lírio",
+          "Açucena"
+        ],
+        "en": [
+          "Lily",
+          "Madonna lily"
+        ],
+        "es": [
+          "Lirio",
+          "Azucena"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Tulipa gesneriana",
+      "slug": "tulip",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "Tulipa"
+        ],
+        "en": [
+          "Tulip"
+        ],
+        "es": [
+          "Tulipán"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Narcissus pseudonarcissus",
+      "slug": "daffodil",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "Narciso",
+          "Narciso-trombeta"
+        ],
+        "en": [
+          "Daffodil",
+          "Narcissus"
+        ],
+        "es": [
+          "Narciso"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Cosmos bipinnatus",
+      "slug": "cosmos",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "Cosmos",
+          "Cosmea"
+        ],
+        "en": [
+          "Cosmos",
+          "Mexican aster"
+        ],
+        "es": [
+          "Cosmos",
+          "Mirasol morado"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 4,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Celosia argentea",
+      "slug": "cockscomb",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "Crista-de-galo",
+          "Celósia"
+        ],
+        "en": [
+          "Cockscomb",
+          "Celosia",
+          "Woolflowers"
+        ],
+        "es": [
+          "Cresta de gallo",
+          "Celosia",
+          "Terciopelo"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 4,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Portulaca grandiflora",
+      "slug": "moss-rose",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "Onze-horas",
+          "Portulaca",
+          "Beldroega-grande"
+        ],
+        "en": [
+          "Moss rose",
+          "Portulaca",
+          "Sun plant"
+        ],
+        "es": [
+          "Portulaca",
+          "Verdolaga francesa",
+          "Flor de las once"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Dianthus caryophyllus",
+      "slug": "carnation",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "Cravo",
+          "Cravina"
+        ],
+        "en": [
+          "Carnation",
+          "Clove pink"
+        ],
+        "es": [
+          "Clavel",
+          "Clavellina"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 4,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Calendula officinalis",
+      "slug": "calendula",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "Calêndula",
+          "Malmequer"
+        ],
+        "en": [
+          "Calendula",
+          "Pot marigold"
+        ],
+        "es": [
+          "Caléndula",
+          "Maravilla",
+          "Mercadela"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 4,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Fuchsia hybrida",
+      "slug": "fuchsia",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "Brinco-de-princesa",
+          "Fúcsia"
+        ],
+        "en": [
+          "Fuchsia"
+        ],
+        "es": [
+          "Fucsia",
+          "Pendientes de la reina",
+          "Aljaba"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 4,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Hippeastrum hybridum",
+      "slug": "amaryllis",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "Amarílis",
+          "Açucena",
+          "Flor-da-imperatriz"
+        ],
+        "en": [
+          "Amaryllis",
+          "Hippeastrum"
+        ],
+        "es": [
+          "Amarilis",
+          "Amaryllis"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Cyclamen persicum",
+      "slug": "cyclamen",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "Cíclame",
+          "Ciclâmen"
+        ],
+        "en": [
+          "Cyclamen",
+          "Persian cyclamen"
+        ],
+        "es": [
+          "Ciclamen",
+          "Violeta de los Alpes"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Pentas lanceolata",
+      "slug": "egyptian-star",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "Pentas",
+          "Estrela-egípcia"
+        ],
+        "en": [
+          "Egyptian star",
+          "Star cluster",
+          "Pentas"
+        ],
+        "es": [
+          "Pentas",
+          "Estrella egipcia"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Salvia splendens",
+      "slug": "scarlet-sage",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "Sálvia",
+          "Sálvia-vermelha"
+        ],
+        "en": [
+          "Scarlet sage",
+          "Salvia"
+        ],
+        "es": [
+          "Salvia roja",
+          "Salvia"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 4,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Guzmania lingulata",
+      "slug": "guzmania",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "Guzmânia",
+          "Bromélia"
+        ],
+        "en": [
+          "Guzmania",
+          "Scarlet star"
+        ],
+        "es": [
+          "Guzmania",
+          "Bromelia",
+          "Estrella escarlata"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Aechmea fasciata",
+      "slug": "urn-plant",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "Bromélia-imperial",
+          "Aechmea",
+          "Gravatá"
+        ],
+        "en": [
+          "Urn plant",
+          "Silver vase",
+          "Aechmea"
+        ],
+        "es": [
+          "Bromelia",
+          "Aechmea",
+          "Planta urna"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 8,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Rhododendron simsii",
+      "slug": "azalea",
+      "category": "shrubs",
+      "common_names": {
+        "pt": [
+          "Azaléia",
+          "Azaleia"
+        ],
+        "en": [
+          "Azalea"
+        ],
+        "es": [
+          "Azalea"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "hard",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Lantana camara",
+      "slug": "lantana",
+      "category": "shrubs",
+      "common_names": {
+        "pt": [
+          "Lantana",
+          "Cambará",
+          "Camará"
+        ],
+        "en": [
+          "Lantana",
+          "Shrub verbena"
+        ],
+        "es": [
+          "Lantana",
+          "Cariaquito",
+          "Cinco negritos",
+          "Confite"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Plumeria rubra",
+      "slug": "frangipani",
+      "category": "shrubs",
+      "common_names": {
+        "pt": [
+          "Jasmim-manga",
+          "Frangipani",
+          "Plumeria"
+        ],
+        "en": [
+          "Frangipani",
+          "Plumeria",
+          "Temple tree"
+        ],
+        "es": [
+          "Flor de mayo",
+          "Cacaloxóchitl",
+          "Frangipani",
+          "Suche"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 8,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Hibiscus syriacus",
+      "slug": "rose-of-sharon",
+      "category": "shrubs",
+      "common_names": {
+        "pt": [
+          "Hibisco-da-síria",
+          "Rosa-de-sharão"
+        ],
+        "en": [
+          "Rose of Sharon",
+          "Shrub althea"
+        ],
+        "es": [
+          "Rosa de Siria",
+          "Altea"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Camellia japonica",
+      "slug": "camellia",
+      "category": "shrubs",
+      "common_names": {
+        "pt": [
+          "Camélia"
+        ],
+        "en": [
+          "Camellia",
+          "Japanese camellia"
+        ],
+        "es": [
+          "Camelia"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Buxus sempervirens",
+      "slug": "boxwood",
+      "category": "shrubs",
+      "common_names": {
+        "pt": [
+          "Buxinho",
+          "Buxo"
+        ],
+        "en": [
+          "Boxwood",
+          "Common box"
+        ],
+        "es": [
+          "Boj",
+          "Buxo"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 8,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Tibouchina urvilleana",
+      "slug": "glory-bush",
+      "category": "shrubs",
+      "common_names": {
+        "pt": [
+          "Quaresmeira",
+          "Manacá-da-serra"
+        ],
+        "en": [
+          "Glory bush",
+          "Princess flower",
+          "Tibouchina"
+        ],
+        "es": [
+          "Flor de gloria",
+          "Tibouchina",
+          "Siete cueros"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Cereus repandus",
+      "slug": "cereus-cactus",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "Mandacaru",
+          "Cardeiro",
+          "Cacto-cereus"
+        ],
+        "en": [
+          "Peruvian apple cactus",
+          "Cereus",
+          "Hedge cactus"
+        ],
+        "es": [
+          "Cardón",
+          "Cacto cirio",
+          "Cardón peruano"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 20,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Mammillaria elongata",
+      "slug": "ladyfinger-cactus",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "Cacto-dedo",
+          "Mamilária",
+          "Cacto-espinho-de-ouro",
+          "Mammillaria"
+        ],
+        "en": [
+          "Ladyfinger cactus",
+          "Gold lace cactus",
+          "Mammillaria"
+        ],
+        "es": [
+          "Biznaga dedo",
+          "Mammillaria",
+          "Dedos de oro"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 20,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Gymnocalycium mihanovichii",
+      "slug": "moon-cactus",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "Cacto-lua",
+          "Cacto-rubi"
+        ],
+        "en": [
+          "Moon cactus",
+          "Ruby ball cactus"
+        ],
+        "es": [
+          "Cacto luna",
+          "Cacto injertado",
+          "Rubí",
+          "Cactus luna"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 18,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Opuntia microdasys",
+      "slug": "bunny-ears-cactus",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "Orelha-de-coelho",
+          "Opúntia",
+          "Palma-forrageira-anã",
+          "Orelha-de-mickey"
+        ],
+        "en": [
+          "Bunny ears cactus",
+          "Polka-dot cactus",
+          "Angel's wings"
+        ],
+        "es": [
+          "Orejas de conejo",
+          "Nopalillo cegador",
+          "Alas de ángel"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 20,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Rhipsalis baccifera",
+      "slug": "mistletoe-cactus",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "Cacto-macarrão",
+          "Ripsális",
+          "Rhipsalis"
+        ],
+        "en": [
+          "Mistletoe cactus",
+          "Spaghetti cactus"
+        ],
+        "es": [
+          "Rhipsalis",
+          "Cacto espagueti",
+          "Muérdago cactus",
+          "Ripsalis"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 10,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Adenium obesum",
+      "slug": "desert-rose",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "Rosa-do-deserto"
+        ],
+        "en": [
+          "Desert rose",
+          "Adenium"
+        ],
+        "es": [
+          "Rosa del desierto",
+          "Adenium"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 12,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Graptopetalum paraguayense",
+      "slug": "ghost-plant",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "Planta-fantasma",
+          "Sedum-fantasma"
+        ],
+        "en": [
+          "Ghost plant",
+          "Mother of pearl plant"
+        ],
+        "es": [
+          "Planta fantasma",
+          "Madre perla"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 16,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Ceropegia woodii",
+      "slug": "string-of-hearts",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "Colar-de-corações",
+          "Corrente-de-corações"
+        ],
+        "en": [
+          "String of hearts",
+          "Rosary vine",
+          "Chain of hearts"
+        ],
+        "es": [
+          "Cadena de corazones",
+          "Rosario",
+          "Collar de corazones"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 12,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Lithops",
+      "slug": "living-stones",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "Planta-pedra",
+          "Lítops",
+          "Pedra-viva"
+        ],
+        "en": [
+          "Living stones",
+          "Lithops",
+          "Pebble plant"
+        ],
+        "es": [
+          "Piedras vivas",
+          "Lithops",
+          "Plantas piedra"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 25,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Senecio serpens",
+      "slug": "blue-chalksticks",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "Dedo-azul",
+          "Senécio-azul"
+        ],
+        "en": [
+          "Blue chalksticks",
+          "Blue fingers"
+        ],
+        "es": [
+          "Dedos azules",
+          "Senecio azul"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 16,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Kalanchoe luciae",
+      "slug": "paddle-plant",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "Kalanchoe-remo",
+          "Orelha-de-elefante-suculenta"
+        ],
+        "en": [
+          "Paddle plant",
+          "Flapjacks",
+          "Desert cabbage"
+        ],
+        "es": [
+          "Kalanchoe paleta",
+          "Col del desierto"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 16,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Aloe aristata",
+      "slug": "lace-aloe",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "Babosa-renda",
+          "Aloe-renda"
+        ],
+        "en": [
+          "Lace aloe",
+          "Torch plant"
+        ],
+        "es": [
+          "Aloe encaje",
+          "Aloe aristata"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 18,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Pelargonium graveolens",
+      "slug": "scented-geranium",
+      "category": "aromatics",
+      "common_names": {
+        "pt": [
+          "Gerânio-de-cheiro",
+          "Malva-cheirosa",
+          "Gerânio-limão"
+        ],
+        "en": [
+          "Scented geranium",
+          "Rose geranium"
+        ],
+        "es": [
+          "Geranio de olor",
+          "Malva olorosa",
+          "Geranio limón"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Mentha piperita",
+      "slug": "peppermint",
+      "category": "aromatics",
+      "common_names": {
+        "pt": [
+          "Hortelã-pimenta",
+          "Menta"
+        ],
+        "en": [
+          "Peppermint"
+        ],
+        "es": [
+          "Menta piperita",
+          "Hierbabuena",
+          "Toronjil de menta"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 3,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Jasminum sambac",
+      "slug": "arabian-jasmine",
+      "category": "aromatics",
+      "common_names": {
+        "pt": [
+          "Jasmim",
+          "Jasmim-do-imperador",
+          "Jasmim-arábico"
+        ],
+        "en": [
+          "Arabian jasmine",
+          "Sampaguita",
+          "Jasmine"
+        ],
+        "es": [
+          "Jazmín",
+          "Jazmín árabe",
+          "Sampaguita"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Aeschynanthus radicans",
+      "slug": "aeschynanthus-radicans",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "Planta-batom"
+        ],
+        "en": [
+          "Lipstick plant"
+        ],
+        "es": [
+          "Planta lápiz labial"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Alocasia amazonica",
+      "slug": "alocasia-amazonica",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Alocásia",
+          "Orelha-de-elefante"
+        ],
+        "en": [
+          "African mask plant"
+        ],
+        "es": [
+          "Alocasia",
+          "Oreja de elefante"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "hard",
+        "wateringNeeds": "high",
+        "wateringFrequencyDays": 4,
+        "wateringMoistureThreshold": 55,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Anthurium scherzerianum",
+      "slug": "anthurium-scherzerianum",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "Antúrio"
+        ],
+        "en": [
+          "Flamingo flower"
+        ],
+        "es": [
+          "Anturio"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Aralia elegantissima",
+      "slug": "aralia-elegantissima",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Arália-elegante"
+        ],
+        "en": [
+          "False aralia"
+        ],
+        "es": [
+          "Aralia elegante"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "hard",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Astrophytum myriostigma",
+      "slug": "astrophytum-myriostigma",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "Chapéu-de-bispo"
+        ],
+        "en": [
+          "Bishop's cap cactus"
+        ],
+        "es": [
+          "Sombrero de obispo"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 21,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Aucuba japonica",
+      "slug": "aucuba-japonica",
+      "category": "shrubs",
+      "common_names": {
+        "pt": [
+          "Aucuba",
+          "Louro-japonês"
+        ],
+        "en": [
+          "Japanese laurel",
+          "Aucuba"
+        ],
+        "es": [
+          "Aucuba",
+          "Laurel japonés"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "low",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Begonia rex",
+      "slug": "begonia-rex",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Begônia-rex",
+          "Begônia"
+        ],
+        "en": [
+          "Rex begonia"
+        ],
+        "es": [
+          "Begonia rex"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 5,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Cattleya labiata",
+      "slug": "cattleya-labiata",
+      "category": "flowering",
+      "common_names": {
+        "pt": [
+          "Orquídea-cattleya"
+        ],
+        "en": [
+          "Cattleya orchid"
+        ],
+        "es": [
+          "Orquídea cattleya"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Cissus discolor",
+      "slug": "cissus-discolor",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Cissus-discolor"
+        ],
+        "en": [
+          "Rex begonia vine"
+        ],
+        "es": [
+          "Cissus discolor"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Dischidia nummularia",
+      "slug": "dischidia-nummularia",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Dischidia"
+        ],
+        "en": [
+          "String of nickels"
+        ],
+        "es": [
+          "Dischidia"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 10,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Dischidia ruscifolia",
+      "slug": "dischidia-ruscifolia",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Dischidia-mil-corações"
+        ],
+        "en": [
+          "Million hearts plant"
+        ],
+        "es": [
+          "Dischidia corazones"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 10,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Dypsis decaryi",
+      "slug": "dypsis-decaryi",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Palmeira-triângulo"
+        ],
+        "en": [
+          "Triangle palm"
+        ],
+        "es": [
+          "Palmera triángulo"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 8,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Fatsia japonica",
+      "slug": "fatsia-japonica",
+      "category": "shrubs",
+      "common_names": {
+        "pt": [
+          "Fatsia",
+          "Árvore-do-papel"
+        ],
+        "en": [
+          "Japanese aralia",
+          "Fatsia"
+        ],
+        "es": [
+          "Aralia japonesa",
+          "Fatsia"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "low",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Ficus microcarpa",
+      "slug": "ficus-microcarpa",
+      "category": "trees",
+      "common_names": {
+        "pt": [
+          "Ficus-microcarpa"
+        ],
+        "en": [
+          "Chinese banyan"
+        ],
+        "es": [
+          "Laurel de la India"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Gasteria bicolor",
+      "slug": "gasteria-bicolor",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "Gastéria"
+        ],
+        "en": [
+          "Gasteria"
+        ],
+        "es": [
+          "Gasteria"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 18,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Haworthia attenuata",
+      "slug": "haworthia-attenuata",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "Haworthia-zebra"
+        ],
+        "en": [
+          "Zebra haworthia"
+        ],
+        "es": [
+          "Haworthia cebra"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 18,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Howea belmoreana",
+      "slug": "howea-belmoreana",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Palmeira-belmoreana"
+        ],
+        "en": [
+          "Belmore sentry palm"
+        ],
+        "es": [
+          "Palmera belmoreana"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 8,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Livistona rotundifolia",
+      "slug": "livistona-rotundifolia",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Palmeira-leque"
+        ],
+        "en": [
+          "Footstool palm"
+        ],
+        "es": [
+          "Palmera de abanico"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Oxalis triangularis",
+      "slug": "oxalis-triangularis",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Trevo-roxo",
+          "Oxalis"
+        ],
+        "en": [
+          "Purple shamrock"
+        ],
+        "es": [
+          "Trébol morado"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Phoenix roebelenii",
+      "slug": "phoenix-roebelenii",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Tamareira-anã"
+        ],
+        "en": [
+          "Pygmy date palm"
+        ],
+        "es": [
+          "Palmera datilera enana"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 8,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Polyscias fruticosa",
+      "slug": "polyscias-fruticosa",
+      "category": "shrubs",
+      "common_names": {
+        "pt": [
+          "Árvore-da-felicidade"
+        ],
+        "en": [
+          "Ming aralia"
+        ],
+        "es": [
+          "Aralia ming"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "hard",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Radermachera sinica",
+      "slug": "radermachera-sinica",
+      "category": "trees",
+      "common_names": {
+        "pt": [
+          "Árvore-da-china"
+        ],
+        "en": [
+          "China doll plant"
+        ],
+        "es": [
+          "Árbol de la porcelana"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 6,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Rhipsalis cereuscula",
+      "slug": "rhipsalis-cereuscula",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "Ripsális-corais"
+        ],
+        "en": [
+          "Coral cactus"
+        ],
+        "es": [
+          "Ripsalis coral"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 12,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "medium",
+        "toxicity": "nonToxic"
+      }
+    },
+    {
+      "scientific_name": "Sansevieria cylindrica",
+      "slug": "sansevieria-cylindrica",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "Espada-cilíndrica"
+        ],
+        "en": [
+          "Cylindrical snake plant"
+        ],
+        "es": [
+          "Lengua de suegra cilíndrica"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 21,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Schefflera arboricola",
+      "slug": "schefflera-arboricola",
+      "category": "shrubs",
+      "common_names": {
+        "pt": [
+          "Cheflera",
+          "Árvore-guarda-chuva"
+        ],
+        "en": [
+          "Umbrella plant",
+          "Dwarf umbrella tree",
+          "Schefflera"
+        ],
+        "es": [
+          "Cheflera",
+          "Árbol paraguas"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Scindapsus treubii",
+      "slug": "scindapsus-treubii",
+      "category": "foliage",
+      "common_names": {
+        "pt": [
+          "Scindapsus-treubii"
+        ],
+        "en": [
+          "Sterling silver pothos"
+        ],
+        "es": [
+          "Scindapsus treubii"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 10,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "medium",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Sedum rubrotinctum",
+      "slug": "sedum-rubrotinctum",
+      "category": "succulentsAndCacti",
+      "common_names": {
+        "pt": [
+          "Dedinho-de-moça"
+        ],
+        "en": [
+          "Jelly bean plant"
+        ],
+        "es": [
+          "Frijolito"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "easy",
+        "wateringNeeds": "low",
+        "wateringFrequencyDays": 18,
+        "wateringMoistureThreshold": 25,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    },
+    {
+      "scientific_name": "Strelitzia nicolai",
+      "slug": "strelitzia-nicolai",
+      "category": "trees",
+      "common_names": {
+        "pt": [
+          "Ave-do-paraíso-gigante"
+        ],
+        "en": [
+          "Giant bird of paradise"
+        ],
+        "es": [
+          "Ave del paraíso gigante"
+        ]
+      },
+      "care": {
+        "maintenanceDifficulty": "medium",
+        "wateringNeeds": "medium",
+        "wateringFrequencyDays": 7,
+        "wateringMoistureThreshold": 45,
+        "lightNeeds": "high",
+        "toxicity": "toxic"
+      }
+    }
+  ]
+}

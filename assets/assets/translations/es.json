@@ -1,0 +1,474 @@
+{
+  "add_plant": {
+    "add_location": "Añadir ubicación",
+    "add_location_description": "Añade una nueva ubicación para tus plantas, como un acogedor rincón de la biblioteca o un patio soleado.",
+    "description": "Descripción",
+    "did_you_mean": "¿Quisiste decir:",
+    "name": "Nombre",
+    "next": "Siguiente",
+    "popular_plant_selected": "Planta popular seleccionada:",
+    "select_a_category": "Selecciona una categoría",
+    "select_location": "Seleccionar ubicación",
+    "select_your_plant": "Selecciona tu planta",
+    "select_your_plant_description": "Mantén tus plantas vivas regándolas, dándoles luz solar y revisando si hay plagas.",
+    "selected_plant": "Planta seleccionada:",
+    "type_description_here": "Escribe la descripción aquí...",
+    "type_name_here": "Escribe el nombre aquí...",
+    "when_did_you_last_water": "¿Cuándo regaste esta planta por última vez",
+    "where_is_the_plant_placed": "¿Dónde está ubicada la planta"
+  },
+  "auth": {
+    "choose_password": "Elige tu contraseña",
+    "confirm_password": "Confirma tu contraseña",
+    "description": "La forma más fácil de mantener tus plantas felices y saludables.",
+    "dont_have_account": "No tienes una cuenta ",
+    "email_required": "El correo electrónico es requerido",
+    "min_6_characters": "Mínimo 6 caracteres",
+    "or_sign_up_with": "O regístrate con",
+    "password_min_6": "La contraseña debe tener al menos 6 caracteres",
+    "password_required": "La contraseña es requerida",
+    "sign_in": "Iniciar sesión",
+    "sign_in_with_facebook": "Iniciar sesión con Facebook",
+    "sign_in_with_google": "Iniciar sesión con Google",
+    "sign_up": "Registrarse",
+    "your_email": "Tu dirección de correo electrónico"
+  },
+  "care": {
+    "generic": {
+      "toxic": "Esta planta puede ser tóxica si se ingiere. Mantenla lejos de niños y mascotas."
+    },
+    "aromatics": {
+      "light": "Prefiere mucho sol.",
+      "maintenance": "Las plantas aromáticas son fáciles de cuidar y recompensan con aroma y sabor.",
+      "watering": "Mantén el sustrato ligeramente húmedo entre riegos."
+    },
+    "climate_note_cool_humid": "Hace más frío/hay más humedad en tu zona ({temp}°C, {humidity}% de humedad): espacia un poco los riegos para no encharcar.",
+    "climate_note_hot_dry": "Hace calor/está seco en tu zona ({temp}°C, {humidity}% de humedad): riega con más frecuencia.",
+    "climate_note_mild": "Clima local templado ({temp}°C, {humidity}% de humedad): mantuvimos el cuidado estándar.",
+    "flowering": {
+      "light": "Necesita mucha luz brillante para florecer.",
+      "maintenance": "Las plantas con flores necesitan un poco más de atención para florecer bien: riego regular y buena luz.",
+      "watering": "Mantén el sustrato ligeramente húmedo; no dejes que se seque por completo."
+    },
+    "foliage": {
+      "light": "Prefiere luz brillante e indirecta; tolera la luz media.",
+      "maintenance": "Las plantas de follaje suelen ser fáciles y tolerantes, ideales para principiantes.",
+      "watering": "Riega cuando los primeros 2–3 cm del sustrato se sientan secos."
+    },
+    "herbs": {
+      "light": "Prefiere sol pleno.",
+      "maintenance": "Las hierbas son fáciles de cultivar y se dan mejor con una cosecha regular.",
+      "watering": "Mantén el sustrato ligeramente húmedo; no dejes que se seque."
+    },
+    "shrubs": {
+      "light": "Prefiere de sol pleno a media sombra.",
+      "maintenance": "Los arbustos son resistentes una vez establecidos y solo necesitan un cuidado moderado.",
+      "watering": "Riega cuando la capa superior del sustrato se seque."
+    },
+    "succulents_and_cacti": {
+      "light": "Adora la luz directa o muy brillante.",
+      "maintenance": "Las suculentas y los cactus prosperan con poco cuidado; el error más común es el exceso de riego.",
+      "watering": "Riega solo cuando el sustrato esté completamente seco."
+    },
+    "trees": {
+      "light": "Prefiere de sol pleno a media sombra.",
+      "maintenance": "Los árboles ornamentales necesitan riego periódico y espacio para crecer.",
+      "watering": "Riega en profundidad cuando la capa superior del sustrato se seque."
+    },
+    "vegetables": {
+      "light": "Necesita sol pleno (más de 6 horas al día).",
+      "maintenance": "Las hortalizas necesitan riego constante y mucha luz para producir bien.",
+      "watering": "Mantén el sustrato constantemente húmedo."
+    },
+    "watering_time_hot": "Riega temprano por la mañana y evita el sol fuerte del mediodía: con el calor el agua se evapora rápido.",
+    "watering_time_normal": "Riega por la mañana para que la planta aproveche mejor el agua durante el día."
+  },
+  "category": {
+    "aromatics": {
+      "description": "Plantas con fragancias agradables.",
+      "title": "Aromáticas"
+    },
+    "flowering": {
+      "description": "Plantas que producen flores hermosas.",
+      "title": "Con flores"
+    },
+    "foliage": {
+      "description": "Plantas con hojas y follaje hermosos.",
+      "title": "Follaje"
+    },
+    "herbs": {
+      "description": "Plantas de exterior culinarias y medicinales.",
+      "title": "Hierbas"
+    },
+    "shrubs": {
+      "description": "Plantas leñosas de tamaño medio, perfectas para el paisajismo.",
+      "title": "Arbustos"
+    },
+    "succulents_and_cacti": {
+      "description": "Plantas resistentes a la sequía que almacenan agua.",
+      "title": "Suculentas y cactus"
+    },
+    "trees": {
+      "description": "Plantas grandes de exterior que brindan sombra y estructura.",
+      "title": "Árboles"
+    },
+    "vegetables": {
+      "description": "Plantas comestibles para tu huerto.",
+      "title": "Hortalizas"
+    }
+  },
+  "common": {
+    "account_error": "No se pudo preparar tu cuenta. Comprueba la conexión e inténtalo de nuevo.",
+    "add": "Añadir",
+    "add_place": "Añadir lugar",
+    "area": "Área",
+    "cancel": "Cancelar",
+    "continue": "Continuar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "loading": "Cargando",
+    "locked": "Bloqueado",
+    "plant": "Planta",
+    "retry": "Reintentar",
+    "save": "Guardar",
+    "select_place": "Selecciona un lugar",
+    "view_all": "Ver todo"
+  },
+  "diagnosis": {
+    "auto_diagnose": "Diagnóstico automático",
+    "best_match": "Mejor coincidencia",
+    "care_advice": "Recibe consejos de expertos para mantener tus plantas sanas y felices",
+    "choose_from_gallery": "Elegir de la galería",
+    "confidence": "Confianza: {confidence}%",
+    "could_not_identify": "No se pudo identificar la planta. Intenta con otra foto.",
+    "done": "Listo",
+    "plant_care_team": "Equipo de cuidado de plantas",
+    "take_photo": "Tomar una foto"
+  },
+  "explorer": {
+    "add_plant": "Agregar planta",
+    "also_known_as": "También conocida como:",
+    "categories": "Categorías",
+    "close": "Cerrar",
+    "common_names": "Nombres comunes",
+    "description": "Descripción",
+    "edible_parts": "Partes comestibles",
+    "error": "Error: {error}",
+    "gift_title": "Regala algo que crece y florece.",
+    "popular_plants": "Plantas populares",
+    "scientific_name": "Nombre científico",
+    "search": "Buscar",
+    "search_results": "Resultados de búsqueda",
+    "see_more": "Ver más",
+    "taxonomy": "Taxonomía",
+    "taxonomy_details": "Familia: {family}\nGénero: {genus}",
+    "today": "Hoy"
+  },
+  "family": {
+    "code_copied": "Código copiado",
+    "copy": "Copiar",
+    "invalid_invite_code": "Código de invitación no válido o caducado.",
+    "invite_code": "Código de invitación",
+    "invite_code_description": "Comparte este código con quienes cuidan este espacio. Pueden unirse desde \"Unirse a un espacio con un código\".",
+    "invite_error_owner_only": "No se pudo crear la invitación. Solo el propietario puede invitar.",
+    "invite_member_button": "Invitar a alguien a este espacio",
+    "join": "Unirse",
+    "join_title": "Unirse a un espacio",
+    "join_with_code_button": "Unirse a un espacio con un código",
+    "joined_success": "¡Te uniste al espacio!",
+    "member_remove_error": "No se pudo eliminar el miembro",
+    "member_removed": "Miembro eliminado",
+    "my_place": "Mi espacio",
+    "no_members": "Aún no hay miembros.",
+    "role_member": "miembro",
+    "unknown_member": "Desconocido",
+    "you": "(tú)",
+    "rename_place": "Renombrar espacio",
+    "rename_place_title": "Nombre del espacio",
+    "place_name_hint": "Ej.: Casa, Jardín de la abuela",
+    "place_renamed": "Espacio renombrado",
+    "place_rename_error": "No se pudo renombrar el espacio",
+    "role_owner": "propietario",
+    "role_editor": "editor",
+    "role_viewer": "lector",
+    "role_caretaker": "cuidador",
+    "invite_caretaker_button": "Invitar a un cuidador",
+    "caretaker_title": "Invitar a un cuidador",
+    "caretaker_description": "Un cuidador obtiene acceso temporal para hacer solo las tareas que elijas, durante el período que definas. Después, el acceso termina automáticamente.",
+    "caretaker_period": "Período de acceso",
+    "caretaker_select_dates": "Seleccionar fechas",
+    "caretaker_tasks": "Tareas permitidas",
+    "caretaker_generate": "Generar código"
+  },
+  "get_started": {
+    "cta": "Comienza con Planta",
+    "description": "Mantén tus plantas vivas regando, dándole luz solar y revisando por insectos.",
+    "title": "Mantén tus plantas vivas"
+  },
+  "home": {
+    "add_plant": "Agregar planta",
+    "greeting": "¡Hola {name}!",
+    "greeting_no_name": "¡Hola!",
+    "my_plants": "Mis plantas",
+    "no_plants_added": "No hay plantas agregadas",
+    "no_plants_description": "Empieza a cuidar tu hogar \nagregando una planta hoy.",
+    "popular_plants": "Plantas populares",
+    "water_in_days": "Regar en {days}d",
+    "water_needs": "Necesita riego",
+    "water_overdue": "Riego atrasado",
+    "water_today": "Regar hoy"
+  },
+  "my_locations": {
+    "title": "Mis ubicaciones"
+  },
+  "my_place": {
+    "add_plant": "Agregar planta",
+    "archived_plants": "Plantas archivadas",
+    "area": "Área",
+    "living_room": "Sala de estar",
+    "living_room_description": "Las plantas de la sala realzan la belleza y crean un ambiente relajante.",
+    "my_areas": "Mis áreas",
+    "my_plants": "Mis plantas"
+  },
+  "nav": {
+    "diagnosis": "Diagnóstico",
+    "explorer": "Explorar",
+    "home": "Inicio",
+    "my_place": "Mi espacio",
+    "premium": "Premium"
+  },
+  "notifications": {
+    "watering_body": "Tu planta necesita riego hoy.",
+    "watering_title": "Hora de regar {plant} 🌱"
+  },
+  "onboarding": {
+    "city": "Ciudad",
+    "city_hint": "Madrid",
+    "country": "País",
+    "country_hint": "ES",
+    "experience_subtitle": "¡Soy genial dando consejos sobre el cuidado de plantas, las riego yo mismo!",
+    "experience_title": "¡Genial para dar consejos, pero sin manos para regar!",
+    "get_started": "Comenzar",
+    "name": "Nombre",
+    "name_hint": "Juan Pérez",
+    "name_required": "El nombre es obligatorio",
+    "next": "Siguiente",
+    "personal_info_subtitle": "Por favor, completa tu información personal",
+    "personal_information": "Información Personal",
+    "pick_multiple_options": "Puedes elegir varias opciones",
+    "profession": "Profesión",
+    "profession_hint": "Ingeniero de Software",
+    "skip": "Omitir",
+    "where_are_your_plants_title": "Dónde están tus plantas"
+  },
+  "plant": {
+    "anthurium": {
+      "description": "Planta tropical con flores llamativas.",
+      "light": "El anturio prefiere luz brillante e indirecta y sufre con el sol directo o en condiciones de muy poca luz. Un lugar cerca de una ventana luminosa con luz filtrada es ideal.",
+      "maintenance": "El anturio requiere un cuidado moderado, prospera con humedad constante y ambientes cálidos y húmedos. Prefiere una rutina estable y atención ocasional para mantener sanos su follaje y sus flores.",
+      "title": "Anturio",
+      "toxicity": "El anturio es tóxico para mascotas y humanos si se ingiere, y causa irritación oral y malestar digestivo.",
+      "watering": "Riega el anturio cuando los primeros 2-3 cm del sustrato se sientan secos, manteniéndolo ligeramente húmedo pero nunca encharcado. Por lo general, necesita riego cada 7 a 10 días según el entorno."
+    },
+    "boston_fern": {
+      "description": "Clásica planta colgante amante de la sombra.",
+      "light": "El helecho de Boston prefiere luz brillante e indirecta y tolera algo de sombra. Evita el sol directo para no quemar las hojas.",
+      "maintenance": "El helecho de Boston requiere un poco más de atención, prospera en un sustrato constantemente húmedo y ambientes de alta humedad. Las pulverizaciones regulares y un riego atento ayudan a mantenerlo frondoso y sano.",
+      "title": "Helecho de Boston",
+      "toxicity": "El helecho de Boston no es tóxico para mascotas ni humanos, por lo que es una opción segura para hogares con animales.",
+      "watering": "Mantén el sustrato constantemente húmedo, pero no encharcado. Riega el helecho de Boston cada 3 a 5 días, ajustando según la humedad y la temperatura."
+    },
+    "cereus_cactus": {
+      "description": "Amante del sol y muy resistente.",
+      "light": "El cactus cereus adora el sol pleno y debe colocarse en un lugar luminoso y soleado para crecer con vigor y mantener su forma.",
+      "maintenance": "El cactus cereus es una planta de bajo mantenimiento que prospera en condiciones secas y requiere muy poca atención, por lo que es ideal para principiantes o dueños ocupados.",
+      "title": "Cactus cereus",
+      "toxicity": "El cactus cereus se considera en general no tóxico para mascotas y humanos, aunque sus espinas afiladas pueden causar lesiones físicas si se tocan.",
+      "watering": "Riega el cactus cereus de forma abundante pero poco frecuente, dejando que el sustrato se seque por completo entre riegos. Por lo general, necesita riego cada 21 a 30 días."
+    },
+    "echeveria": {
+      "description": "Perfecta para quienes olvidan regar.",
+      "light": "Las echeverias prefieren luz solar directa y brillante durante varias horas al día. Un alféizar soleado o un lugar exterior con mucha luz es ideal para su crecimiento.",
+      "maintenance": "Las echeverias son suculentas de bajo mantenimiento que prosperan con un cuidado mínimo, y solo requieren riego ocasional y mucha luz para mantenerse sanas y vistosas.",
+      "title": "Echeveria",
+      "toxicity": "Las echeverias no son tóxicas para mascotas ni humanos, por lo que son una opción segura y atractiva para espacios interiores.",
+      "watering": "Deja que el sustrato se seque por completo antes de regar la echeveria a fondo. Por lo general, necesita riego cada 14 a 21 días, según el clima y la estación."
+    },
+    "monstera": {
+      "description": "Follaje exótico y muy decorativo.",
+      "light": "La costilla de Adán prefiere luz brillante e indirecta, pero tolera niveles de luz más bajos. Evita el sol directo para no quemar las hojas.",
+      "maintenance": "La costilla de Adán es relativamente fácil de cuidar, pero requiere atención regular al riego y a la luz. Prospera en ambientes húmedos con un mantenimiento moderado.",
+      "title": "Costilla de Adán",
+      "toxicity": "La costilla de Adán es tóxica para mascotas y humanos si se ingiere, y causa irritación y malestar digestivo.",
+      "watering": "Riega la costilla de Adán cuando los primeros 2-5 cm del sustrato se sientan secos al tacto. Por lo general, el riego es necesario cada 7 a 10 días según el entorno."
+    },
+    "peace_lily": {
+      "description": "Florece en interiores y purifica el aire.",
+      "light": "El lirio de la paz se da bien con luz indirecta de baja a media intensidad y tolera los ambientes con poca luz mejor que muchas otras plantas de interior.",
+      "maintenance": "El lirio de la paz es bastante fácil de cuidar, requiere humedad constante y prospera en condiciones de poca luz. Se beneficia de riegos regulares y pulverizaciones ocasionales para mantener la humedad.",
+      "title": "Lirio de la paz",
+      "toxicity": "El lirio de la paz es tóxico para mascotas y humanos si se ingiere, y puede causar irritación oral y malestar digestivo.",
+      "watering": "Riega el lirio de la paz cuando la superficie del sustrato empiece a secarse, por lo general cada 5 a 7 días. Mantén el sustrato ligeramente húmedo, pero no encharcado."
+    },
+    "pilea": {
+      "description": "Muy popular en la decoración moderna.",
+      "light": "La pilea prefiere luz brillante e indirecta, pero tolera condiciones de poca luz durante periodos cortos.",
+      "maintenance": "La pilea peperomioides es una planta de bajo mantenimiento que prospera con una atención mínima, por lo que es perfecta para principiantes.",
+      "title": "Pilea peperomioides",
+      "toxicity": "La pilea peperomioides no es tóxica y es segura para mascotas y humanos, por lo que es una excelente opción para hogares con animales.",
+      "watering": "Riega la pilea cada dos semanas o cuando la capa superior del sustrato se sienta seca, asegurándote de que las raíces no queden en el agua."
+    },
+    "pothos": {
+      "description": "Resistente e ideal para espacios interiores.",
+      "light": "El potos prospera con luz brillante e indirecta, pero también tolera la poca luz. Sin embargo, puede crecer más despacio en condiciones de baja luminosidad.",
+      "maintenance": "El potos es increíblemente fácil de cuidar, conocido por su naturaleza resistente. Prospera en diversas condiciones de luz y solo necesita riego ocasional.",
+      "title": "Potos",
+      "toxicity": "El potos es tóxico para mascotas y humanos si se ingiere, y causa síntomas como vómitos o irritación oral.",
+      "watering": "Riega el potos cuando los primeros 2-3 cm del sustrato se sientan secos al tacto. Por lo general, requiere riego cada 7 a 10 días, según la temperatura y la humedad."
+    },
+    "snake_plant": {
+      "description": "Purifica el aire y requiere poco mantenimiento.",
+      "light": "La lengua de suegra prefiere luz brillante e indirecta, pero tolera la poca luz e incluso algo de sol directo, lo que la hace muy versátil en interiores.",
+      "maintenance": "La lengua de suegra es extremadamente resistente y prospera con un cuidado mínimo. Tolera la sequía, se adapta a diversas condiciones de luz y es ideal para dueños ocupados o principiantes.",
+      "title": "Lengua de suegra",
+      "toxicity": "La lengua de suegra es tóxica para mascotas y humanos si se ingiere, y puede causar náuseas o malestar gastrointestinal.",
+      "watering": "Riega la lengua de suegra solo cuando el sustrato esté completamente seco, por lo general cada 14 a 21 días. Evita el exceso de riego para prevenir la pudrición de las raíces."
+    },
+    "zz_plant": {
+      "description": "Ideal para zonas con poca luz.",
+      "light": "La planta ZZ prospera con luz indirecta de baja a media intensidad, pero también tolera ambientes con poca luz, lo que la hace ideal para espacios interiores con poca luz natural.",
+      "maintenance": "La planta ZZ requiere muy poco mantenimiento y es perfecta para principiantes. Tolera con facilidad el descuido, la poca luz y el riego infrecuente.",
+      "title": "Planta ZZ",
+      "toxicity": "La planta ZZ es tóxica para mascotas y humanos si se ingiere, y causa irritación o malestar estomacal.",
+      "watering": "Deja que el sustrato se seque por completo entre riegos. Riega aproximadamente cada 14 a 21 días, según el entorno y la estación."
+    }
+  },
+  "plant_details": {
+    "action_date": "Fecha de la acción",
+    "action_type": "Tipo de acción",
+    "activity": "Actividad",
+    "action_error": "No se pudo completar la acción. Inténtalo de nuevo.",
+    "unarchive_plant": "Restaurar planta",
+    "unarchived_success": "Planta restaurada.",
+    "remove_plant": "Quitar del espacio",
+    "remove_plant_confirm": "¿Quitar \"{name}\" del espacio? La planta sale de tus listas y pasa a \"Plantas archivadas\", desde donde puedes restaurarla cuando quieras. El historial se conserva.",
+    "removed_success": "Planta quitada del espacio.",
+    "add_event": "Agregar evento",
+    "add_irrigation": "Agregar riego",
+    "add_plant": "Agregar planta",
+    "area": "Área",
+    "care_light": "Luz",
+    "care_maintenance": "Mantenimiento",
+    "care_toxicity": "Toxicidad",
+    "care_watering": "Riego",
+    "category": "Categoría",
+    "climate_care_title_city": "Cuidado ajustado al clima de {city}",
+    "climate_care_title_local": "Cuidado ajustado al clima local",
+    "close": "Cerrar",
+    "date_and_time": "Fecha y hora",
+    "fertilizing_off_season": "Fuera de la temporada de abono — espera para abonar por ahora.",
+    "fertilizing_season": "Es temporada de abonar — la planta está creciendo.",
+    "irrigation": "Riego",
+    "irrigation_event": "Evento de riego",
+    "last_irrigation": "Último riego: ",
+    "moisture_prefix": "El próximo riego debe ocurrir cuando la humedad del suelo alcance ",
+    "moisture_value": "{value}%",
+    "next_irrigation": "Próximo riego: ",
+    "next_watering": "Próximo riego: {date}",
+    "no_description": "Sin descripción",
+    "plant_care": "Cuidados de la planta",
+    "plant_name_fallback": "Nombre de la planta",
+    "popular_plants": "Plantas populares",
+    "recommended_suffix": " (recomendado)",
+    "select_date_time": "Selecciona la fecha y la hora del riego.",
+    "title": "Título",
+    "water_default_suffix": "  (predeterminado: {days} días)",
+    "level_low": "Baja",
+    "level_medium": "Media",
+    "level_high": "Alta",
+    "difficulty_easy": "Fácil",
+    "difficulty_medium": "Moderada",
+    "difficulty_hard": "Difícil",
+    "toxic": "Tóxica",
+    "non_toxic": "Atóxica",
+    "water_every_days": "{days} días",
+    "water_every_prefix": "Riega cada ",
+    "watering_days": "{days} días.",
+    "watering_frequency_label": "Frecuencia de riego:",
+    "watering_moisture_label": "Umbral de humedad para el riego:",
+    "watering_should_prefix": "Como regla general, riega más o menos cada ",
+    "your_plant": "tu planta",
+    "type_watering": "Riego",
+    "type_fertilizing": "Fertilización",
+    "type_note": "Nota",
+    "type_image": "Foto",
+    "performed_by": "por {name}",
+    "someone": "Alguien",
+    "add_activity": "Añadir actividad",
+    "activity_notes_hint": "Notas (opcional)",
+    "no_activities": "Aún no hay actividades."
+  },
+  "popular_plants": {
+    "title": "Plantas populares"
+  },
+  "premium": {
+    "care_schedules_description": "Crea un programa de cuidado personalizado para tus plantas",
+    "care_schedules_title": "Programas de cuidado",
+    "get_premium": "Obtener Premium",
+    "plant_identifier_description": "Escanea una planta y descubre su nombre y cómo cuidarla",
+    "plant_identifier_title": "Identificador de plantas",
+    "reminders_description": "Recibe recordatorios para regar, fertilizar y más",
+    "reminders_title": "Recordatorios",
+    "title": "¿Qué es Planta Premium?"
+  },
+  "profile": {
+    "areas": "Áreas",
+    "google_account_exists": "Esa cuenta de Google ya existe en Niva. Toca de nuevo para entrar en ella.",
+    "google_banner_subtitle": "Vincula tu cuenta con Google para no perder tus plantas.",
+    "google_banner_title": "Inicia sesión para guardar tu jardín",
+    "google_link_error": "No se pudo iniciar sesión con Google. Inténtalo de nuevo.",
+    "google_link_success": "¡Sesión iniciada con Google!",
+    "photos": "Fotos",
+    "plants": "Plantas"
+  },
+  "settings": {
+    "account": "Cuenta",
+    "language": "Idioma",
+    "language_en": "Inglés",
+    "language_es": "Español",
+    "language_pt": "Portugués",
+    "logout": "Cerrar sesión",
+    "place": "Lugar",
+    "theme": "Tema",
+    "theme_dark": "Modo oscuro",
+    "theme_light": "Modo claro",
+    "theme_system": "Sistema",
+    "title": "Ajustes",
+    "manage_place": "Gestionar espacio"
+  },
+  "edit_profile": {
+    "title": "Editar perfil",
+    "name": "Nombre",
+    "name_hint": "Tu nombre",
+    "profession": "Profesión",
+    "profession_hint": "A qué te dedicas",
+    "phone": "Teléfono",
+    "phone_hint": "Número de teléfono",
+    "area_code_hint": "+34",
+    "birth_date": "Fecha de nacimiento",
+    "birth_date_hint": "Selecciona una fecha",
+    "city": "Ciudad",
+    "city_hint": "Ciudad",
+    "state": "Estado",
+    "state_hint": "Estado",
+    "country": "País",
+    "country_hint": "País",
+    "experience_level": "Experiencia con plantas",
+    "experience_hopeless": "Sin remedio",
+    "experience_beginner": "Principiante",
+    "experience_experienced": "Experto",
+    "save": "Guardar",
+    "saved": "Perfil actualizado",
+    "save_error": "No se pudo guardar el perfil"
+  }
+}
